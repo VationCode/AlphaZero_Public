@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c245751f1c64c8b449ad16e0558be75f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303120
+  packageName: Female Rifle Animset - Free Walk&Jog
+  packageVersion: 1.2
+  assetPath: Assets/FemaleRunnerAnimset/Controllers/Rifle/Movements/Jog/R_Crouch_Jog.controller
+  uploadId: 907614

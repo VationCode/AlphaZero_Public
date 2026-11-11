@@ -1,0 +1,267 @@
+{
+  "character": {
+    "meshes": {
+      "Anby_Battery": {
+        "polygons": 1336,
+        "vertices": 1235,
+        "shape_keys": 0,
+        "weighted_vertices": 1235,
+        "armature_modifiers": [
+          "Anby_Rig"
+        ],
+        "materials": [
+          "Anby_Battery"
+        ]
+      },
+      "Anby_Body": {
+        "polygons": 3082,
+        "vertices": 2152,
+        "shape_keys": 0,
+        "weighted_vertices": 2152,
+        "armature_modifiers": [
+          "Anby_Rig"
+        ],
+        "materials": [
+          "Anby_Skin"
+        ]
+      },
+      "Anby_ClearCover": {
+        "polygons": 24,
+        "vertices": 32,
+        "shape_keys": 0,
+        "weighted_vertices": 32,
+        "armature_modifiers": [
+          "Anby_Rig"
+        ],
+        "materials": [
+          "Anby_ClearCover"
+        ]
+      },
+      "Anby_Face": {
+        "polygons": 3176,
+        "vertices": 2153,
+        "shape_keys": 57,
+        "weighted_vertices": 2153,
+        "armature_modifiers": [
+          "Anby_Rig"
+        ],
+        "materials": [
+          "Anby_Face",
+          "Anby_Mouth",
+          "Anby_Teeth",
+          "Anby_Eyebrows",
+          "Anby_Eyelashes",
+          "Anby_EyelidCrease",
+          "Anby_EyeWhite",
+          "Anby_Eyes",
+          "Anby_Iris",
+          "Anby_EyeHighlight",
+          "Anby_EyeHighlightSoft",
+          "Anby_EyeShadow"
+        ]
+      },
+      "Anby_Hair": {
+        "polygons": 4299,
+        "vertices": 3650,
+        "shape_keys": 0,
+        "weighted_vertices": 3650,
+        "armature_modifiers": [
+          "Anby_Rig"
+        ],
+        "materials": [
+          "Anby_Hair"
+        ]
+      },
+      "Anby_HairOverlay": {
+        "polygons": 4299,
+        "vertices": 3650,
+        "shape_keys": 0,
+        "weighted_vertices": 3650,
+        "armature_modifiers": [
+          "Anby_Rig"
+        ],
+        "materials": [
+          "Anby_HairOverlay"
+        ]
+      },
+      "Anby_Headphones": {
+        "polygons": 1060,
+        "vertices": 924,
+        "shape_keys": 0,
+        "weighted_vertices": 924,
+        "armature_modifiers": [
+          "Anby_Rig"
+        ],
+        "materials": [
+          "Anby_Headphones"
+        ]
+      },
+      "Anby_Outfit": {
+        "polygons": 11528,
+        "vertices": 8482,
+        "shape_keys": 0,
+        "weighted_vertices": 8482,
+        "armature_modifiers": [
+          "Anby_Rig"
+        ],
+        "materials": [
+          "Anby_Jacket",
+          "Anby_Pants",
+          "Anby_Gloves",
+          "Anby_Socks",
+          "Anby_Shoes",
+          "Anby_SleeveTrim",
+          "Anby_OutfitAccent"
+        ]
+      },
+      "Anby_Skirt": {
+        "polygons": 1710,
+        "vertices": 2001,
+        "shape_keys": 0,
+        "weighted_vertices": 2001,
+        "armature_modifiers": [
+          "Anby_Rig"
+        ],
+        "materials": [
+          "Anby_Skirt",
+          "Anby_SkirtTrim"
+        ]
+      },
+      "Anby_ThighStrap": {
+        "polygons": 164,
+        "vertices": 204,
+        "shape_keys": 0,
+        "weighted_vertices": 204,
+        "armature_modifiers": [
+          "Anby_Rig"
+        ],
+        "materials": [
+          "Anby_ThighStrap"
+        ]
+      }
+    },
+    "rigs": {
+      "Anby_Rig": {
+        "count": 233,
+        "skirt_bones": [
+          "Skirt_0_0",
+          "Skirt_0_1",
+          "Skirt_0_10",
+          "Skirt_0_11",
+          "Skirt_0_12",
+          "Skirt_0_13",
+          "Skirt_0_14",
+          "Skirt_0_15",
+          "Skirt_0_2",
+          "Skirt_0_3",
+          "Skirt_0_4",
+          "Skirt_0_5",
+          "Skirt_0_6",
+          "Skirt_0_7",
+          "Skirt_0_8",
+          "Skirt_0_9",
+          "Skirt_1_0",
+          "Skirt_1_1",
+          "Skirt_1_10",
+          "Skirt_1_11",
+          "Skirt_1_12",
+          "Skirt_1_13",
+          "Skirt_1_14",
+          "Skirt_1_15",
+          "Skirt_1_2",
+          "Skirt_1_3",
+          "Skirt_1_4",
+          "Skirt_1_5",
+          "Skirt_1_6",
+          "Skirt_1_7",
+          "Skirt_1_8",
+          "Skirt_1_9",
+          "Skirt_2_0",
+          "Skirt_2_1",
+          "Skirt_2_10",
+          "Skirt_2_11",
+          "Skirt_2_12",
+          "Skirt_2_13",
+          "Skirt_2_14",
+          "Skirt_2_15",
+          "Skirt_2_2",
+          "Skirt_2_3",
+          "Skirt_2_4",
+          "Skirt_2_5",
+          "Skirt_2_6",
+          "Skirt_2_7",
+          "Skirt_2_8",
+          "Skirt_2_9",
+          "Skirt_3_0",
+          "Skirt_3_1",
+          "Skirt_3_10",
+          "Skirt_3_11",
+          "Skirt_3_12",
+          "Skirt_3_13",
+          "Skirt_3_14",
+          "Skirt_3_15",
+          "Skirt_3_2",
+          "Skirt_3_3",
+          "Skirt_3_4",
+          "Skirt_3_5",
+          "Skirt_3_6",
+          "Skirt_3_7",
+          "Skirt_3_8",
+          "Skirt_3_9",
+          "Skirt_4_0",
+          "Skirt_4_1",
+          "Skirt_4_10",
+          "Skirt_4_11",
+          "Skirt_4_12",
+          "Skirt_4_13",
+          "Skirt_4_14",
+          "Skirt_4_15",
+          "Skirt_4_2",
+          "Skirt_4_3",
+          "Skirt_4_4",
+          "Skirt_4_5",
+          "Skirt_4_6",
+          "Skirt_4_7",
+          "Skirt_4_8",
+          "Skirt_4_9"
+        ],
+        "core_bones": [
+          "Chest",
+          "Head",
+          "Hips",
+          "LeftUpperArm",
+          "LeftUpperLeg",
+          "Neck",
+          "RightUpperArm",
+          "RightUpperLeg",
+          "Spine"
+        ]
+      }
+    },
+    "other_objects": []
+  },
+  "weapon": {
+    "meshes": {
+      "Anby_Weapon": {
+        "polygons": 2494,
+        "vertices": 2898,
+        "shape_keys": 0,
+        "weighted_vertices": 2898,
+        "armature_modifiers": [
+          "Anby_WeaponRig"
+        ],
+        "materials": [
+          "Anby_Weapon"
+        ]
+      }
+    },
+    "rigs": {
+      "Anby_WeaponRig": {
+        "count": 7,
+        "skirt_bones": [],
+        "core_bones": []
+      }
+    },
+    "other_objects": []
+  }
+}

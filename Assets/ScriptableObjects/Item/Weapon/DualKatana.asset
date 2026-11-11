@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a581dbf332d5904d931add769ec2e68, type: 3}
+  m_Name: DualKatana
+  m_EditorClassIdentifier: 
+  ItemName: DualSword
+  ItemId: dual_katana
+  ItemType: 0
+  MaxStack: 1
+  WeaponType: 0
+  WeaponHandType: 2
+  WeaponDatas:
+  - itemObj: {fileID: 9081512727185109091, guid: 0b067016f69dfea43944eb7ddef1632f, type: 3}
+    WeaponHolderType: 1
+  - itemObj: {fileID: 5315732624092499729, guid: 8208038e1e6c8ff4a99c6be587f59399, type: 3}
+    WeaponHolderType: 0

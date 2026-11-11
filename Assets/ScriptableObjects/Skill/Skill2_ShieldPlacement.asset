@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2583114b0ce548978dd7fdb2df3c0a15, type: 3}
+  m_Name: Skill2_ShieldPlacement
+  m_EditorClassIdentifier: 
+  _id: 0
+  _displayName: Shield
+  _description: "\uD50C\uB808\uC774\uC5B4 \uD604\uC7AC \uC704\uCE58\uC5D0 \uC77C\uC815
+    \uC2DC\uAC04 \uC720\uC9C0\uB418\uB294 \uC274\uB4DC\uB97C \uC124\uCE58\uD55C\uB2E4."
+  _icon: {fileID: 21300000, guid: 9e3014e009a98f34cb5924db1bf4e9ab, type: 3}
+  _cooldown: 25
+  _activationMode: 1
+  _executeEventKey: Excute
+  _audio1EventKey: Audio1
+  _audio2EventKey: Audio2
+  _audio1: {fileID: 8300000, guid: 45ef130928ee6ab4e88043c2742ff082, type: 3}
+  _audio2: {fileID: 8300000, guid: 08e1f9df71f55d84886d39ce7a053124, type: 3}
+  _activationAudioCues: []
+  _activationEffectPrefab: {fileID: 0}
+  _activationEffectLifetime: 3
+  _prefab: {fileID: 5833179566574657652, guid: 68b3b17c2ea15324f8d6322c0ca9a336, type: 3}
+  _placementOffset: {x: 0, y: 0, z: 0}
+  _maxDistance: 12
+  _maxSlopeAngle: 30
+  _clearanceRadius: 2.6
+  _clearanceHeight: 5.2
+  _surfaceMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  _obstacleMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  _animationState: Skill2
+  _castAnimationClip: {fileID: 7400000, guid: 09bc7144e540a70478f05ca7fd70ec4a, type: 2}
+  _castDuration: 2.3
+  _duration: 8
+  _moveDelayAfterExecute: 0.5

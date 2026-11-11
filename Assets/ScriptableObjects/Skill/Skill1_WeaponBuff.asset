@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb923470a0bc4df5a65e5d0a49031b9c, type: 3}
+  m_Name: Skill1_WeaponBuff
+  m_EditorClassIdentifier: 
+  _id: 4
+  _displayName: Weapon Buff
+  _description: Temporarily increases weapon fire rate, damage, and magazine capacity.
+  _icon: {fileID: 21300000, guid: 6e84bf94c7f55154bbc3144f41506afd, type: 3}
+  _cooldown: 18
+  _activationMode: 1
+  _executeEventKey: Excute
+  _audio1EventKey: Audio1
+  _audio2EventKey: Audio2
+  _audio1: {fileID: 0}
+  _audio2: {fileID: 0}
+  _activationAudioCues:
+  - _clip: {fileID: 8300000, guid: 53b20d9e54d5c964a9c73f51405d8751, type: 3}
+    _delay: 0
+    _volume: 1
+  _activationEffectPrefab: {fileID: 0}
+  _activationEffectLifetime: 0.1
+  _duration: 10
+  _fireRateMultiplier: 1.5
+  _damageMultiplier: 1.5
+  _magazineCapacityMultiplier: 2

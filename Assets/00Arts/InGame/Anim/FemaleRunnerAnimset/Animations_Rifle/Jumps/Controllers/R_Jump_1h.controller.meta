@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1071171b0fef714b98a61c404090af2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340068
+  packageName: Female Rifle Animset - Jumps
+  packageVersion: 1.0
+  assetPath: Assets/FemaleRunnerAnimset/Controllers/Rifle/Jumps/R_Jump_1h.controller
+  uploadId: 806044

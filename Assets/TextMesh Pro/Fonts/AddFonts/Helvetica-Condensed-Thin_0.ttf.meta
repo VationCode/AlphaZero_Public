@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: b82ed08120a200541850e5bffa86bd6f
+timeCreated: 1577932572
+licenseType: Store
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetica-Condensed-Thin
+  fontNames:
+  - Helvetica-Condensed-Thin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160490
+  packageName: Cyberpunk RPG GUI Pack
+  packageVersion: 1.1
+  assetPath: Assets/Cyberpunk RPG GUI Pack/Cyberpunk RPG GUI Resources/Fonts/Helvetica-Condensed-Thin_0.ttf
+  uploadId: 372365

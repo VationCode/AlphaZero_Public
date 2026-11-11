@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: c123be1ed36d91740a5a3f7d7ca1fef5
+timeCreated: 1577932572
+licenseType: Store
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetica-Narrow
+  fontNames:
+  - Helvetica-Narrow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160490
+  packageName: Cyberpunk RPG GUI Pack
+  packageVersion: 1.1
+  assetPath: Assets/Cyberpunk RPG GUI Pack/Cyberpunk RPG GUI Resources/Fonts/Helvetica-Narrow_0.ttf
+  uploadId: 372365

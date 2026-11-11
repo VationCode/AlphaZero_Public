@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6e1c6d2c1c888e429e41d39ff31d7c8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303120
+  packageName: Female Rifle Animset - Free Walk&Jog
+  packageVersion: 1.2
+  assetPath: Assets/FemaleRunnerAnimset/Controllers/Rifle/Movements/Jog/R_StrafeJog.controller
+  uploadId: 907614

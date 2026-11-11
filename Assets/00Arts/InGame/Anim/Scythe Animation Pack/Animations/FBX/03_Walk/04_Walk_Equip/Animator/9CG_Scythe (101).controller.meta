@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d8c59d5080f52e84893edf712374f0ab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 355538
+  packageName: Scythe Animation Pack
+  packageVersion: 1.0
+  assetPath: Assets/Scythe Animation Pack/Animations/FBX/03_Walk/04_Walk_Equip/Animator/9CG_Scythe
+    (101).controller
+  uploadId: 980002

@@ -1,0 +1,1014 @@
+{
+  "颜": {
+    "slot": 0,
+    "polygons": 1880,
+    "vertices": 1071,
+    "bounds": [
+      [
+        -0.078,
+        -0.078,
+        1.322
+      ],
+      [
+        0.078,
+        0.009,
+        1.524
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "颜.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "skin.bmp"
+      }
+    ],
+    "shape_key_moved": {
+      "まばたき": 194,
+      "ウィンク２": 98,
+      "ウィンク２右": 98,
+      "笑い": 234,
+      "ウィンク": 119,
+      "ウィンク右": 119,
+      "眼角下": 387,
+      "怒り目": 158,
+      "怒り目２": 156,
+      "じと目": 210,
+      "悲しむ": 222,
+      "びっくり": 214,
+      "びっくり左": 109,
+      "びっくり右": 109,
+      "下眼上": 69,
+      "真面目": 3,
+      "困る": 3,
+      "怒り": 3,
+      "にこり": 3,
+      "下": 3,
+      "上": 3,
+      "上左": 3,
+      "上右": 3,
+      "あ": 330,
+      "い": 320,
+      "う": 224,
+      "え": 305,
+      "お": 340,
+      "▲": 229,
+      "にやり": 286,
+      "にやり２": 184,
+      "口角上げ": 286,
+      "口上": 344,
+      "口左": 342,
+      "口横狭め右": 109,
+      "口下": 374,
+      "口角下げ右": 143,
+      "口右": 350,
+      "口横広げ右": 161,
+      "口角上げ右": 183,
+      "口": 368,
+      "大口": 384,
+      "お２": 320,
+      "お３": 330,
+      "い２": 308,
+      "口角上げ左": 184,
+      "口横広げ左": 187,
+      "口角下げ左": 138,
+      "口横狭め左": 104,
+      "ワ１": 315,
+      "ワ３": 349,
+      "ワ２": 293,
+      "ワ": 349,
+      "口横缩げ": 207,
+      "口横広げ": 266,
+      "口角下げ": 262
+    }
+  },
+  "口舌": {
+    "slot": 1,
+    "polygons": 442,
+    "vertices": 274,
+    "bounds": [
+      [
+        -0.018,
+        -0.062,
+        1.344
+      ],
+      [
+        0.018,
+        -0.016,
+        1.366
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "颜.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "skin.bmp"
+      }
+    ],
+    "shape_key_moved": {
+      "笑い": 15,
+      "ウィンク": 15,
+      "ウィンク右": 3,
+      "あ": 244,
+      "い": 220,
+      "う": 192,
+      "え": 211,
+      "お": 244,
+      "▲": 225,
+      "にやり": 139,
+      "にやり２": 92,
+      "口角上げ": 139,
+      "口上": 180,
+      "口左": 178,
+      "口横狭め右": 50,
+      "口下": 184,
+      "口角下げ右": 77,
+      "口右": 180,
+      "口横広げ右": 96,
+      "口角上げ右": 90,
+      "口": 250,
+      "大口": 250,
+      "お２": 242,
+      "お３": 240,
+      "い２": 99,
+      "口角上げ左": 92,
+      "口横広げ左": 101,
+      "口角下げ左": 76,
+      "口横狭め左": 50,
+      "ワ１": 216,
+      "ワ３": 267,
+      "ワ２": 205,
+      "ワ": 267,
+      "口横缩げ": 97,
+      "口横広げ": 143,
+      "口角下げ": 137
+    }
+  },
+  "齿": {
+    "slot": 2,
+    "polygons": 144,
+    "vertices": 156,
+    "bounds": [
+      [
+        -0.019,
+        -0.06,
+        1.346
+      ],
+      [
+        0.019,
+        -0.039,
+        1.361
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "颜.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon01.bmp"
+      }
+    ],
+    "shape_key_moved": {
+      "あ": 156,
+      "い": 78,
+      "う": 156,
+      "え": 156,
+      "お": 156,
+      "▲": 156,
+      "にやり": 146,
+      "にやり２": 87,
+      "口角上げ": 146,
+      "口上": 156,
+      "口左": 156,
+      "口横狭め右": 50,
+      "口下": 156,
+      "口角下げ右": 70,
+      "口右": 156,
+      "口横広げ右": 89,
+      "口角上げ右": 89,
+      "口": 156,
+      "大口": 156,
+      "お２": 156,
+      "お３": 156,
+      "い２": 144,
+      "口角上げ左": 87,
+      "口横広げ左": 86,
+      "口角下げ左": 68,
+      "口横狭め左": 50,
+      "ワ１": 156,
+      "ワ３": 156,
+      "ワ２": 156,
+      "ワ": 156,
+      "口横缩げ": 92,
+      "口横広げ": 143,
+      "口角下げ": 128
+    }
+  },
+  "眉": {
+    "slot": 3,
+    "polygons": 20,
+    "vertices": 24,
+    "bounds": [
+      [
+        -0.045,
+        -0.067,
+        1.432
+      ],
+      [
+        0.045,
+        -0.058,
+        1.439
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "颜.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {
+      "眼角下": 16,
+      "悲しむ": 12,
+      "びっくり": 18,
+      "びっくり左": 9,
+      "びっくり右": 9,
+      "真面目": 24,
+      "困る": 24,
+      "怒り": 24,
+      "にこり": 24,
+      "下": 24,
+      "上": 24,
+      "上左": 12,
+      "上右": 12
+    }
+  },
+  "睫": {
+    "slot": 4,
+    "polygons": 230,
+    "vertices": 260,
+    "bounds": [
+      [
+        -0.068,
+        -0.057,
+        1.392
+      ],
+      [
+        0.068,
+        -0.038,
+        1.425
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "颜.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {
+      "まばたき": 260,
+      "ウィンク２": 130,
+      "ウィンク２右": 130,
+      "笑い": 260,
+      "ウィンク": 130,
+      "ウィンク右": 130,
+      "眼角下": 260,
+      "怒り目": 202,
+      "怒り目２": 196,
+      "じと目": 230,
+      "悲しむ": 226,
+      "びっくり": 210,
+      "びっくり左": 105,
+      "びっくり右": 105,
+      "下眼上": 40
+    }
+  },
+  "二重": {
+    "slot": 5,
+    "polygons": 24,
+    "vertices": 28,
+    "bounds": [
+      [
+        -0.043,
+        -0.059,
+        1.415
+      ],
+      [
+        0.043,
+        -0.055,
+        1.423
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "颜.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "skin.bmp"
+      }
+    ],
+    "shape_key_moved": {
+      "まばたき": 28,
+      "ウィンク２": 14,
+      "ウィンク２右": 14,
+      "笑い": 28,
+      "ウィンク": 14,
+      "ウィンク右": 14,
+      "眼角下": 28,
+      "怒り目": 28,
+      "怒り目２": 28,
+      "じと目": 28,
+      "悲しむ": 28,
+      "びっくり": 28,
+      "びっくり左": 14,
+      "びっくり右": 14
+    }
+  },
+  "白目": {
+    "slot": 6,
+    "polygons": 74,
+    "vertices": 74,
+    "bounds": [
+      [
+        -0.059,
+        -0.049,
+        1.391
+      ],
+      [
+        0.059,
+        -0.037,
+        1.422
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "颜.tga"
+      }
+    ],
+    "shape_key_moved": {
+      "まばたき": 54,
+      "ウィンク２": 27,
+      "ウィンク２右": 27,
+      "笑い": 68,
+      "ウィンク": 34,
+      "ウィンク右": 34,
+      "眼角下": 74,
+      "怒り目": 50,
+      "怒り目２": 48,
+      "じと目": 58,
+      "悲しむ": 68,
+      "びっくり": 64,
+      "びっくり左": 32,
+      "びっくり右": 32,
+      "下眼上": 24
+    }
+  },
+  "目": {
+    "slot": 7,
+    "polygons": 156,
+    "vertices": 98,
+    "bounds": [
+      [
+        -0.049,
+        -0.05,
+        1.394
+      ],
+      [
+        0.049,
+        -0.042,
+        1.422
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "颜.tga"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "瞳": {
+    "slot": 8,
+    "polygons": 58,
+    "vertices": 60,
+    "bounds": [
+      [
+        -0.04,
+        -0.045,
+        1.402
+      ],
+      [
+        0.04,
+        -0.043,
+        1.412
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "颜.tga"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "目光": {
+    "slot": 9,
+    "polygons": 48,
+    "vertices": 52,
+    "bounds": [
+      [
+        -0.048,
+        -0.049,
+        1.397
+      ],
+      [
+        0.045,
+        -0.043,
+        1.411
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "颜.tga"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "目光2": {
+    "slot": 10,
+    "polygons": 56,
+    "vertices": 60,
+    "bounds": [
+      [
+        -0.048,
+        -0.048,
+        1.407
+      ],
+      [
+        0.045,
+        -0.043,
+        1.414
+      ]
+    ],
+    "alpha": 0.5,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "颜.tga"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "上衣": {
+    "slot": 11,
+    "polygons": 6264,
+    "vertices": 4759,
+    "bounds": [
+      [
+        -0.465,
+        -0.127,
+        0.64
+      ],
+      [
+        0.465,
+        0.123,
+        1.324
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      },
+      {
+        "node": "mmd_sphere_tex",
+        "image": "2.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "髮": {
+    "slot": 12,
+    "polygons": 4299,
+    "vertices": 3650,
+    "bounds": [
+      [
+        -0.104,
+        -0.091,
+        1.282
+      ],
+      [
+        0.107,
+        0.154,
+        1.559
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "髮.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {
+      "お": 1
+    }
+  },
+  "肌": {
+    "slot": 13,
+    "polygons": 3082,
+    "vertices": 2152,
+    "bounds": [
+      [
+        -0.542,
+        -0.091,
+        0.66
+      ],
+      [
+        0.542,
+        0.078,
+        1.407
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "skin.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "裤": {
+    "slot": 14,
+    "polygons": 924,
+    "vertices": 532,
+    "bounds": [
+      [
+        -0.153,
+        -0.087,
+        0.77
+      ],
+      [
+        0.153,
+        0.102,
+        0.955
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "腿环": {
+    "slot": 15,
+    "polygons": 164,
+    "vertices": 204,
+    "bounds": [
+      [
+        -0.173,
+        -0.078,
+        0.637
+      ],
+      [
+        -0.024,
+        0.057,
+        0.699
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      },
+      {
+        "node": "mmd_sphere_tex",
+        "image": "2.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "手套": {
+    "slot": 16,
+    "polygons": 1212,
+    "vertices": 776,
+    "bounds": [
+      [
+        -0.503,
+        -0.019,
+        0.907
+      ],
+      [
+        0.503,
+        0.063,
+        0.989
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "袜": {
+    "slot": 17,
+    "polygons": 1228,
+    "vertices": 686,
+    "bounds": [
+      [
+        -0.167,
+        -0.078,
+        0.111
+      ],
+      [
+        0.167,
+        0.061,
+        0.697
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "电池": {
+    "slot": 18,
+    "polygons": 1336,
+    "vertices": 1235,
+    "bounds": [
+      [
+        -0.108,
+        0.064,
+        0.998
+      ],
+      [
+        0.14,
+        0.283,
+        1.394
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "耳机": {
+    "slot": 19,
+    "polygons": 1060,
+    "vertices": 924,
+    "bounds": [
+      [
+        -0.119,
+        -0.022,
+        1.377
+      ],
+      [
+        0.112,
+        0.057,
+        1.557
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "鞋": {
+    "slot": 20,
+    "polygons": 1626,
+    "vertices": 1524,
+    "bounds": [
+      [
+        -0.177,
+        -0.159,
+        0.0
+      ],
+      [
+        0.178,
+        0.075,
+        0.217
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "裙": {
+    "slot": 21,
+    "polygons": 916,
+    "vertices": 1103,
+    "bounds": [
+      [
+        -0.168,
+        -0.101,
+        0.753
+      ],
+      [
+        0.168,
+        0.117,
+        0.996
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "裙饰": {
+    "slot": 22,
+    "polygons": 794,
+    "vertices": 898,
+    "bounds": [
+      [
+        0.014,
+        -0.105,
+        0.77
+      ],
+      [
+        0.175,
+        0.111,
+        0.963
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "袖饰": {
+    "slot": 23,
+    "polygons": 218,
+    "vertices": 160,
+    "bounds": [
+      [
+        -0.35,
+        -0.059,
+        1.02
+      ],
+      [
+        0.35,
+        0.117,
+        1.192
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "透明罩": {
+    "slot": 24,
+    "polygons": 24,
+    "vertices": 32,
+    "bounds": [
+      [
+        -0.098,
+        0.139,
+        0.986
+      ],
+      [
+        0.001,
+        0.26,
+        1.166
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  },
+  "目影": {
+    "slot": 25,
+    "polygons": 44,
+    "vertices": 48,
+    "bounds": [
+      [
+        -0.057,
+        -0.049,
+        1.404
+      ],
+      [
+        0.057,
+        -0.04,
+        1.415
+      ]
+    ],
+    "alpha": 0.30000001192092896,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "B.jpg"
+      }
+    ],
+    "shape_key_moved": {
+      "まばたき": 48,
+      "ウィンク２": 24,
+      "ウィンク２右": 24,
+      "笑い": 48,
+      "ウィンク": 24,
+      "ウィンク右": 24,
+      "眼角下": 48,
+      "怒り目": 48,
+      "怒り目２": 48,
+      "じと目": 48,
+      "悲しむ": 48,
+      "びっくり": 48,
+      "びっくり左": 24,
+      "びっくり右": 24
+    }
+  },
+  "髮+": {
+    "slot": 26,
+    "polygons": 4299,
+    "vertices": 3650,
+    "bounds": [
+      [
+        -0.104,
+        -0.091,
+        1.282
+      ],
+      [
+        0.107,
+        0.154,
+        1.559
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "sh.png"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      },
+      {
+        "node": "mmd_sphere_tex",
+        "image": "hair_s.bmp"
+      }
+    ],
+    "shape_key_moved": {
+      "お": 1
+    }
+  },
+  "新規材質1": {
+    "slot": 27,
+    "polygons": 56,
+    "vertices": 45,
+    "bounds": [
+      [
+        -0.155,
+        0.002,
+        1.175
+      ],
+      [
+        -0.108,
+        0.063,
+        1.237
+      ]
+    ],
+    "alpha": 1.0,
+    "image_nodes": [
+      {
+        "node": "mmd_base_tex",
+        "image": "体.tga"
+      },
+      {
+        "node": "mmd_toon_tex",
+        "image": "toon_defo.bmp"
+      },
+      {
+        "node": "mmd_sphere_tex",
+        "image": "2.bmp"
+      }
+    ],
+    "shape_key_moved": {}
+  }
+}

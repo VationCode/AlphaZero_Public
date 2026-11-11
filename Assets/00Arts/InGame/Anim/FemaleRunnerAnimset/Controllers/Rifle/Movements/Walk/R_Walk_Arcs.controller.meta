@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 952fd82c93e84ec46927e8771bec32a8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303120
+  packageName: Female Rifle Animset - Free Walk&Jog
+  packageVersion: 1.2
+  assetPath: Assets/FemaleRunnerAnimset/Controllers/Rifle/Movements/Walk/R_Walk_Arcs.controller
+  uploadId: 907614

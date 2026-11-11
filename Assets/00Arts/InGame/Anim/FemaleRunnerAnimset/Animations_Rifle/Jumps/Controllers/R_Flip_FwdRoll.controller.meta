@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba2da14d3292e94419cdbce07260e4db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340068
+  packageName: Female Rifle Animset - Jumps
+  packageVersion: 1.0
+  assetPath: Assets/FemaleRunnerAnimset/Controllers/Rifle/Jumps/R_Flip_FwdRoll.controller
+  uploadId: 806044

@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: ccaa01d474203a64d8da34f0fc274732
+timeCreated: 1578045056
+licenseType: Store
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cambria
+  fontNames:
+  - Cambria
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4e0551f33e0d3fa41872996a88959d36, type: 3}
+  - {fileID: 12800000, guid: 9c0bbd28e273df8438dbb8efc48f3612, type: 3}
+  - {fileID: 12800000, guid: 33dbd13f31dd3964ca705a1f9f4febd7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160490
+  packageName: Cyberpunk RPG GUI Pack
+  packageVersion: 1.1
+  assetPath: Assets/Cyberpunk RPG GUI Pack/Cyberpunk RPG GUI Resources/Fonts/cambriai.ttf
+  uploadId: 372365

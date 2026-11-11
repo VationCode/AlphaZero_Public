@@ -1,0 +1,76 @@
+{
+  "character_fbx": "D:\\Portfolio\\AlphaZero\\Assets\\00Arts\\Character\\Anby\\Anby_UnityReady.fbx",
+  "weapon_fbx": "D:\\Portfolio\\AlphaZero\\Assets\\00Arts\\Character\\Anby\\Anby_Weapon.fbx",
+  "blend": "D:\\Portfolio\\AlphaZero\\ModelSources\\Anby\\Anby_UnityReady.blend",
+  "meshes": {
+    "Anby_Face": {
+      "polygons": 3176,
+      "vertices": 2153,
+      "shape_keys": 57
+    },
+    "Anby_Outfit": {
+      "polygons": 11528,
+      "vertices": 8482,
+      "shape_keys": 0
+    },
+    "Anby_Hair": {
+      "polygons": 4299,
+      "vertices": 3650,
+      "shape_keys": 0
+    },
+    "Anby_Body": {
+      "polygons": 3082,
+      "vertices": 2152,
+      "shape_keys": 0
+    },
+    "Anby_ThighStrap": {
+      "polygons": 164,
+      "vertices": 204,
+      "shape_keys": 0
+    },
+    "Anby_Battery": {
+      "polygons": 1336,
+      "vertices": 1235,
+      "shape_keys": 0
+    },
+    "Anby_Headphones": {
+      "polygons": 1060,
+      "vertices": 924,
+      "shape_keys": 0
+    },
+    "Anby_Skirt": {
+      "polygons": 1710,
+      "vertices": 2001,
+      "shape_keys": 0
+    },
+    "Anby_ClearCover": {
+      "polygons": 24,
+      "vertices": 32,
+      "shape_keys": 0
+    },
+    "Anby_HairOverlay": {
+      "polygons": 4299,
+      "vertices": 3650,
+      "shape_keys": 0
+    }
+  },
+  "bones": 285,
+  "weapon_bones": 7,
+  "textures": [
+    "Weapon.tga",
+    "HairSpecular.bmp",
+    "HairOverlay.png",
+    "SkinToon.bmp",
+    "Toon01.bmp",
+    "ToonDefault.bmp",
+    "Outfit.tga",
+    "Face.tga",
+    "Hair.tga"
+  ],
+  "missing_source_images": [
+    "2.bmp",
+    "B.jpg",
+    "SP0d_20190820_005614.bmp",
+    "toon4.png"
+  ]
+}

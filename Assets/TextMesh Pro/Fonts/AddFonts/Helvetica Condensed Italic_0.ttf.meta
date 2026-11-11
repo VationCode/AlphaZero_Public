@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 4231cfa2ae26d0640ba8526fc1101def
+timeCreated: 1577932571
+licenseType: Store
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetica Condensed
+  fontNames:
+  - Helvetica Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 29c5edc7e63dc5e4f9f2b45d2ece3481, type: 3}
+  - {fileID: 12800000, guid: 0bc4969d934a4d748875ff87d3f3806d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160490
+  packageName: Cyberpunk RPG GUI Pack
+  packageVersion: 1.1
+  assetPath: Assets/Cyberpunk RPG GUI Pack/Cyberpunk RPG GUI Resources/Fonts/Helvetica
+    Condensed Italic_0.ttf
+  uploadId: 372365

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a49ac9a59e36b634b8ce52ddf74142ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303120
+  packageName: Female Rifle Animset - Free Walk&Jog
+  packageVersion: 1.2
+  assetPath: Assets/FemaleRunnerAnimset/Controllers/Rifle/Movements/Walk/R_Walk_L90.controller
+  uploadId: 907614

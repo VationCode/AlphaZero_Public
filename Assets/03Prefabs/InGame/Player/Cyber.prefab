@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4709146520641635472
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8248633876375140489, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a3fbcccddf81b604f8f470f4f523ee93, type: 2}
+    - target: {fileID: -6683423801989391676, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a3fbcccddf81b604f8f470f4f523ee93, type: 2}
+    - target: {fileID: -5928395085533954453, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c2f1d47057e83c9408f2c76699061dd3, type: 2}
+    - target: {fileID: 919132149155446097, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_Name
+      value: Ciber_girl_A_pose_neon
+      objectReference: {fileID: 0}
+    - target: {fileID: 3251124198383072069, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fa83c63f92a21f7428960a45e62cb99a, type: 2}
+    - target: {fileID: 3672045456498110513, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 1525f3684d2f650489ade5123d2201e7, type: 2}
+    - target: {fileID: 5866666021909216657, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 71f7662ccf16fc348a241105035c34a3, type: 2}
+    - target: {fileID: 5866666021909216657, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7051182696954941156}
+  m_SourcePrefab: {fileID: 100100000, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+--- !u!1 &5592158051610245569 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4a37f78e0efe11e4dbf44d9c5c036d17, type: 3}
+  m_PrefabInstance: {fileID: 4709146520641635472}
+  m_PrefabAsset: {fileID: 0}
+--- !u!328 &7051182696954941156
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5592158051610245569}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 32900000, guid: 21ba700d1b0ad5b4c9bed764ca0f87dc, type: 3}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 0}
+  m_TargetTexture: {fileID: 8400000, guid: 4e177a5fe5e21004796a6c03a0de5f52, type: 2}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: _MainTex
+  m_RenderMode: 2
+  m_AspectRatio: 2
+  m_DataSource: 0
+  m_TimeUpdateMode: 2
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 2
+  m_TargetAudioSources:
+  - {fileID: 0}
+  m_DirectAudioVolumes:
+  - 1
+  m_Url: 
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 00
+  m_ControlledAudioTrackCount: 1
+  m_PlayOnAwake: 1
+  m_SkipOnDrop: 1
+  m_Looping: 1
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
+  m_VideoShaders: []

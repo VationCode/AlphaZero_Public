@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: db7fc384deff58848ac49bd0ab146c7d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 355538
+  packageName: Scythe Animation Pack
+  packageVersion: 1.0
+  assetPath: Assets/Scythe Animation Pack/Animations/FBX/06_Dodge/05_Dodge_to_Run/Animator/9CG_Scythe
+    (311).controller
+  uploadId: 980002

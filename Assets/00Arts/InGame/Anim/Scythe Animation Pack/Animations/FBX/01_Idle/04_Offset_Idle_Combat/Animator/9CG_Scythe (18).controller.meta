@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f5df43547544ac44fabdd36ee8f3c165
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 355538
+  packageName: Scythe Animation Pack
+  packageVersion: 1.0
+  assetPath: Assets/Scythe Animation Pack/Animations/FBX/01_Idle/04_Offset_Idle_Combat/Animator/9CG_Scythe
+    (18).controller
+  uploadId: 980002

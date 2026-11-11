@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4e4a544bd35336546915d65b2e007e02
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 355538
+  packageName: Scythe Animation Pack
+  packageVersion: 1.0
+  assetPath: Assets/Scythe Animation Pack/Animations/FBX/05_Jump/02_Jump_Combat/01_Jump_Combat_0/Animator/9CG_Scythe
+    (200).controller
+  uploadId: 980002

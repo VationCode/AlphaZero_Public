@@ -73,3 +73,23 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Codex / AI
+**/AGENTS.md
+
+# 3D Models
+*.fbx
+*.fbx.meta
+*.obj
+*.obj.meta
+*.blend
+*.blend.meta
+*.dae
+*.dae.meta
+
+# Animation Assets
+*.anim
+*.anim.meta
+
+# Texture
+*.tga

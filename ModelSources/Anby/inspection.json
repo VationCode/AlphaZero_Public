@@ -1,0 +1,6293 @@
+{
+  "blend": "D:\\Portfolio\\AlphaZero\\ModelSources\\Anby\\Anby_Original.blend",
+  "objects": [
+    {
+      "name": "000_J.裙_0_0",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "000_下半身",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.12,
+          -0.073,
+          0.797
+        ],
+        [
+          0.12,
+          0.079,
+          0.949
+        ]
+      ]
+    },
+    {
+      "name": "001_J.裙_0_1",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "001_上半身1",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.094,
+          -0.088,
+          1.002
+        ],
+        [
+          0.094,
+          0.041,
+          1.132
+        ]
+      ]
+    },
+    {
+      "name": "002_J.裙_0_2",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "002_上半身2",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.117,
+          -0.09,
+          1.102
+        ],
+        [
+          0.117,
+          0.086,
+          1.278
+        ]
+      ]
+    },
+    {
+      "name": "003_J.裙_0_3",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "003_上半身",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.088,
+          -0.085,
+          0.931
+        ],
+        [
+          0.088,
+          0.043,
+          1.059
+        ]
+      ]
+    },
+    {
+      "name": "004_J.裙_0_4",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "004_首",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.04,
+          -0.016,
+          1.259
+        ],
+        [
+          0.04,
+          0.066,
+          1.39
+        ]
+      ]
+    },
+    {
+      "name": "005_J.裙_0_5",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "005_頭",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.064,
+          -0.044,
+          1.318
+        ],
+        [
+          0.064,
+          0.084,
+          1.51
+        ]
+      ]
+    },
+    {
+      "name": "006_J.裙_0_6",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "006_右肩",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.131,
+          -0.021,
+          1.2
+        ],
+        [
+          0.015,
+          0.076,
+          1.314
+        ]
+      ]
+    },
+    {
+      "name": "007_J.裙_0_7",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "007_右腕",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.31,
+          -0.019,
+          1.06
+        ],
+        [
+          -0.067,
+          0.081,
+          1.281
+        ]
+      ]
+    },
+    {
+      "name": "008_J.裙_0_8",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "008_右ひじ",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.464,
+          -0.009,
+          0.929
+        ],
+        [
+          -0.229,
+          0.077,
+          1.142
+        ]
+      ]
+    },
+    {
+      "name": "009_J.裙_0_9",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "009_右手首",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.557,
+          -0.017,
+          0.872
+        ],
+        [
+          -0.413,
+          0.065,
+          0.996
+        ]
+      ]
+    },
+    {
+      "name": "010_J.裙_0_10",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "010_左肩",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.015,
+          -0.021,
+          1.2
+        ],
+        [
+          0.131,
+          0.076,
+          1.314
+        ]
+      ]
+    },
+    {
+      "name": "011_J.裙_0_11",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "011_左腕",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.067,
+          -0.019,
+          1.06
+        ],
+        [
+          0.31,
+          0.081,
+          1.281
+        ]
+      ]
+    },
+    {
+      "name": "012_J.裙_0_12",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "012_左ひじ",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.229,
+          -0.009,
+          0.929
+        ],
+        [
+          0.464,
+          0.077,
+          1.142
+        ]
+      ]
+    },
+    {
+      "name": "013_J.裙_0_13",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "013_左手首",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.413,
+          -0.017,
+          0.872
+        ],
+        [
+          0.557,
+          0.065,
+          0.996
+        ]
+      ]
+    },
+    {
+      "name": "014_J.裙_0_14",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "014_右足",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.166,
+          -0.074,
+          0.419
+        ],
+        [
+          0.015,
+          0.08,
+          0.913
+        ]
+      ]
+    },
+    {
+      "name": "015_J.裙_0_15",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "015_右ひざ",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.192,
+          -0.08,
+          -0.034
+        ],
+        [
+          -0.01,
+          0.125,
+          0.556
+        ]
+      ]
+    },
+    {
+      "name": "016_J.裙_1_0",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "016_右足首",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.176,
+          -0.151,
+          -0.017
+        ],
+        [
+          -0.064,
+          0.099,
+          0.137
+        ]
+      ]
+    },
+    {
+      "name": "017_J.裙_1_1",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "017_左足",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.015,
+          -0.074,
+          0.419
+        ],
+        [
+          0.166,
+          0.08,
+          0.913
+        ]
+      ]
+    },
+    {
+      "name": "018_J.裙_1_2",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "018_左ひざ",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.01,
+          -0.08,
+          -0.034
+        ],
+        [
+          0.192,
+          0.125,
+          0.556
+        ]
+      ]
+    },
+    {
+      "name": "019_J.裙_1_3",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "019_左足首",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.064,
+          -0.151,
+          -0.017
+        ],
+        [
+          0.176,
+          0.099,
+          0.137
+        ]
+      ]
+    },
+    {
+      "name": "020_J.裙_1_4",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "020_上半身2_1",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.104,
+          -0.024,
+          1.201
+        ],
+        [
+          0.104,
+          0.098,
+          1.322
+        ]
+      ]
+    },
+    {
+      "name": "021_J.裙_1_5",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "021_胸",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.081,
+          -0.146,
+          1.111
+        ],
+        [
+          0.081,
+          -0.048,
+          1.209
+        ]
+      ]
+    },
+    {
+      "name": "022_J.裙_1_6",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "022_左胸上",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.031,
+          -0.114,
+          1.187
+        ],
+        [
+          0.063,
+          -0.039,
+          1.211
+        ]
+      ]
+    },
+    {
+      "name": "023_J.裙_1_7",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "023_左胸上2",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.026,
+          -0.138,
+          1.133
+        ],
+        [
+          0.086,
+          -0.078,
+          1.196
+        ]
+      ]
+    },
+    {
+      "name": "024_J.裙_1_8",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "024_左胸下",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.033,
+          -0.124,
+          1.111
+        ],
+        [
+          0.063,
+          -0.029,
+          1.144
+        ]
+      ]
+    },
+    {
+      "name": "025_J.裙_1_9",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "025_右胸上",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.063,
+          -0.114,
+          1.187
+        ],
+        [
+          -0.031,
+          -0.039,
+          1.211
+        ]
+      ]
+    },
+    {
+      "name": "026_J.裙_1_10",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "026_右胸上2",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.086,
+          -0.138,
+          1.133
+        ],
+        [
+          -0.026,
+          -0.078,
+          1.196
+        ]
+      ]
+    },
+    {
+      "name": "027_J.裙_1_11",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "027_右胸下",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.063,
+          -0.124,
+          1.111
+        ],
+        [
+          -0.033,
+          -0.029,
+          1.144
+        ]
+      ]
+    },
+    {
+      "name": "028_J.裙_1_12",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "028_裙_0_0",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.04,
+          -0.096,
+          0.896
+        ],
+        [
+          0.04,
+          -0.078,
+          0.945
+        ]
+      ]
+    },
+    {
+      "name": "029_J.裙_1_13",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "029_裙_0_1",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.007,
+          -0.1,
+          0.895
+        ],
+        [
+          0.088,
+          -0.061,
+          0.945
+        ]
+      ]
+    },
+    {
+      "name": "030_J.裙_1_14",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "030_裙_0_2",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.049,
+          -0.093,
+          0.894
+        ],
+        [
+          0.126,
+          -0.032,
+          0.945
+        ]
+      ]
+    },
+    {
+      "name": "031_J.裙_1_15",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "031_裙_0_3",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.083,
+          -0.075,
+          0.894
+        ],
+        [
+          0.145,
+          0.004,
+          0.945
+        ]
+      ]
+    },
+    {
+      "name": "032_J.裙_2_0",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "032_裙_0_4",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.109,
+          -0.046,
+          0.892
+        ],
+        [
+          0.138,
+          0.038,
+          0.949
+        ]
+      ]
+    },
+    {
+      "name": "033_J.裙_2_1",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "033_裙_0_5",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.079,
+          -0.018,
+          0.894
+        ],
+        [
+          0.149,
+          0.07,
+          0.953
+        ]
+      ]
+    },
+    {
+      "name": "034_J.裙_2_2",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "034_裙_0_6",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.046,
+          0.015,
+          0.898
+        ],
+        [
+          0.129,
+          0.089,
+          0.955
+        ]
+      ]
+    },
+    {
+      "name": "035_J.裙_2_3",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "035_裙_0_7",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.005,
+          0.041,
+          0.902
+        ],
+        [
+          0.09,
+          0.097,
+          0.956
+        ]
+      ]
+    },
+    {
+      "name": "036_J.裙_2_4",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "036_裙_0_8",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.04,
+          0.057,
+          0.906
+        ],
+        [
+          0.04,
+          0.093,
+          0.955
+        ]
+      ]
+    },
+    {
+      "name": "037_J.裙_2_5",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "037_裙_0_9",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.09,
+          0.041,
+          0.902
+        ],
+        [
+          -0.005,
+          0.097,
+          0.956
+        ]
+      ]
+    },
+    {
+      "name": "038_J.裙_2_6",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "038_裙_0_10",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.129,
+          0.015,
+          0.898
+        ],
+        [
+          -0.046,
+          0.089,
+          0.955
+        ]
+      ]
+    },
+    {
+      "name": "039_J.裙_2_7",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "039_裙_0_11",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.149,
+          -0.018,
+          0.894
+        ],
+        [
+          -0.079,
+          0.07,
+          0.953
+        ]
+      ]
+    },
+    {
+      "name": "040_J.裙_2_8",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "040_裙_0_12",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.138,
+          -0.046,
+          0.892
+        ],
+        [
+          -0.109,
+          0.038,
+          0.949
+        ]
+      ]
+    },
+    {
+      "name": "041_J.裙_2_9",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "041_裙_0_13",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.145,
+          -0.075,
+          0.894
+        ],
+        [
+          -0.083,
+          0.004,
+          0.945
+        ]
+      ]
+    },
+    {
+      "name": "042_J.裙_2_10",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "042_裙_0_14",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.126,
+          -0.093,
+          0.894
+        ],
+        [
+          -0.049,
+          -0.032,
+          0.945
+        ]
+      ]
+    },
+    {
+      "name": "043_J.裙_2_11",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "043_裙_0_15",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.088,
+          -0.1,
+          0.895
+        ],
+        [
+          -0.007,
+          -0.061,
+          0.945
+        ]
+      ]
+    },
+    {
+      "name": "044_J.裙_2_12",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "044_裙_1_0",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.056,
+          -0.096,
+          0.851
+        ],
+        [
+          0.056,
+          -0.079,
+          0.915
+        ]
+      ]
+    },
+    {
+      "name": "045_J.裙_2_13",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "045_裙_1_1",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.005,
+          -0.105,
+          0.85
+        ],
+        [
+          0.107,
+          -0.057,
+          0.916
+        ]
+      ]
+    },
+    {
+      "name": "046_J.裙_2_14",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "046_裙_1_2",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.042,
+          -0.102,
+          0.849
+        ],
+        [
+          0.147,
+          -0.021,
+          0.915
+        ]
+      ]
+    },
+    {
+      "name": "047_J.裙_2_15",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "047_裙_1_3",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.083,
+          -0.087,
+          0.849
+        ],
+        [
+          0.164,
+          0.022,
+          0.916
+        ]
+      ]
+    },
+    {
+      "name": "048_J.裙_3_0",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "048_裙_1_4",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.118,
+          -0.056,
+          0.847
+        ],
+        [
+          0.149,
+          0.059,
+          0.919
+        ]
+      ]
+    },
+    {
+      "name": "049_J.裙_3_1",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "049_裙_1_5",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.081,
+          -0.022,
+          0.848
+        ],
+        [
+          0.166,
+          0.094,
+          0.922
+        ]
+      ]
+    },
+    {
+      "name": "050_J.裙_3_2",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "050_裙_1_6",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.04,
+          0.019,
+          0.851
+        ],
+        [
+          0.149,
+          0.111,
+          0.924
+        ]
+      ]
+    },
+    {
+      "name": "051_J.裙_3_3",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "051_裙_1_7",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.006,
+          0.053,
+          0.854
+        ],
+        [
+          0.108,
+          0.115,
+          0.924
+        ]
+      ]
+    },
+    {
+      "name": "052_J.裙_3_4",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "052_裙_1_8",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.056,
+          0.075,
+          0.857
+        ],
+        [
+          0.056,
+          0.107,
+          0.923
+        ]
+      ]
+    },
+    {
+      "name": "053_J.裙_3_5",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "053_裙_1_9",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.108,
+          0.053,
+          0.854
+        ],
+        [
+          0.006,
+          0.115,
+          0.924
+        ]
+      ]
+    },
+    {
+      "name": "054_J.裙_3_6",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "054_裙_1_10",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.149,
+          0.019,
+          0.851
+        ],
+        [
+          -0.04,
+          0.111,
+          0.924
+        ]
+      ]
+    },
+    {
+      "name": "055_J.裙_3_7",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "055_裙_1_11",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.166,
+          -0.022,
+          0.848
+        ],
+        [
+          -0.081,
+          0.094,
+          0.922
+        ]
+      ]
+    },
+    {
+      "name": "056_J.裙_3_8",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "056_裙_1_12",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.149,
+          -0.056,
+          0.847
+        ],
+        [
+          -0.118,
+          0.059,
+          0.919
+        ]
+      ]
+    },
+    {
+      "name": "057_J.裙_3_9",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "057_裙_1_13",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.164,
+          -0.087,
+          0.849
+        ],
+        [
+          -0.083,
+          0.022,
+          0.916
+        ]
+      ]
+    },
+    {
+      "name": "058_J.裙_3_10",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "058_裙_1_14",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.147,
+          -0.102,
+          0.849
+        ],
+        [
+          -0.042,
+          -0.021,
+          0.915
+        ]
+      ]
+    },
+    {
+      "name": "059_J.裙_3_11",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "059_裙_1_15",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.107,
+          -0.105,
+          0.85
+        ],
+        [
+          0.005,
+          -0.057,
+          0.916
+        ]
+      ]
+    },
+    {
+      "name": "060_J.裙_3_12",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "060_裙_2_0",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.06,
+          -0.096,
+          0.807
+        ],
+        [
+          0.06,
+          -0.08,
+          0.871
+        ]
+      ]
+    },
+    {
+      "name": "061_J.裙_3_13",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "061_裙_2_1",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.005,
+          -0.105,
+          0.806
+        ],
+        [
+          0.115,
+          -0.057,
+          0.871
+        ]
+      ]
+    },
+    {
+      "name": "062_J.裙_3_14",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "062_裙_2_2",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.046,
+          -0.102,
+          0.806
+        ],
+        [
+          0.157,
+          -0.019,
+          0.871
+        ]
+      ]
+    },
+    {
+      "name": "063_J.裙_3_15",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "063_裙_2_3",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.09,
+          -0.087,
+          0.805
+        ],
+        [
+          0.175,
+          0.027,
+          0.872
+        ]
+      ]
+    },
+    {
+      "name": "064_J.裙横_0_0",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "064_裙_2_4",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.13,
+          -0.055,
+          0.804
+        ],
+        [
+          0.158,
+          0.067,
+          0.873
+        ]
+      ]
+    },
+    {
+      "name": "065_J.裙横_0_1",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "065_裙_2_5",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.09,
+          -0.017,
+          0.804
+        ],
+        [
+          0.176,
+          0.102,
+          0.875
+        ]
+      ]
+    },
+    {
+      "name": "066_J.裙横_0_2",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "066_裙_2_6",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.045,
+          0.028,
+          0.806
+        ],
+        [
+          0.158,
+          0.118,
+          0.876
+        ]
+      ]
+    },
+    {
+      "name": "067_J.裙横_0_3",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "067_裙_2_7",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.005,
+          0.065,
+          0.808
+        ],
+        [
+          0.116,
+          0.121,
+          0.876
+        ]
+      ]
+    },
+    {
+      "name": "068_J.裙横_0_4",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "068_裙_2_8",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.06,
+          0.088,
+          0.809
+        ],
+        [
+          0.06,
+          0.112,
+          0.875
+        ]
+      ]
+    },
+    {
+      "name": "069_J.裙横_0_5",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "069_裙_2_9",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.116,
+          0.065,
+          0.808
+        ],
+        [
+          0.005,
+          0.121,
+          0.876
+        ]
+      ]
+    },
+    {
+      "name": "070_J.裙横_0_6",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "070_裙_2_10",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.158,
+          0.028,
+          0.806
+        ],
+        [
+          -0.045,
+          0.118,
+          0.876
+        ]
+      ]
+    },
+    {
+      "name": "071_J.裙横_0_7",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "071_裙_2_11",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.176,
+          -0.017,
+          0.804
+        ],
+        [
+          -0.09,
+          0.102,
+          0.875
+        ]
+      ]
+    },
+    {
+      "name": "072_J.裙横_0_8",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "072_裙_2_12",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.158,
+          -0.055,
+          0.804
+        ],
+        [
+          -0.13,
+          0.067,
+          0.873
+        ]
+      ]
+    },
+    {
+      "name": "073_J.裙横_0_9",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "073_裙_2_13",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.175,
+          -0.087,
+          0.805
+        ],
+        [
+          -0.09,
+          0.027,
+          0.872
+        ]
+      ]
+    },
+    {
+      "name": "074_J.裙横_0_10",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "074_裙_2_14",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.157,
+          -0.102,
+          0.806
+        ],
+        [
+          -0.046,
+          -0.019,
+          0.871
+        ]
+      ]
+    },
+    {
+      "name": "075_J.裙横_0_11",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "075_裙_2_15",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.115,
+          -0.105,
+          0.806
+        ],
+        [
+          0.005,
+          -0.057,
+          0.871
+        ]
+      ]
+    },
+    {
+      "name": "076_J.裙横_0_12",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "076_裙_3_0",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.064,
+          -0.101,
+          0.76
+        ],
+        [
+          0.064,
+          -0.076,
+          0.815
+        ]
+      ]
+    },
+    {
+      "name": "077_J.裙横_0_13",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "077_裙_3_1",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.007,
+          -0.11,
+          0.759
+        ],
+        [
+          0.123,
+          -0.053,
+          0.815
+        ]
+      ]
+    },
+    {
+      "name": "078_J.裙横_0_14",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "078_裙_3_2",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.047,
+          -0.106,
+          0.759
+        ],
+        [
+          0.169,
+          -0.014,
+          0.816
+        ]
+      ]
+    },
+    {
+      "name": "079_J.裙横_0_15",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "079_裙_3_3",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.094,
+          -0.091,
+          0.759
+        ],
+        [
+          0.187,
+          0.033,
+          0.816
+        ]
+      ]
+    },
+    {
+      "name": "080_J.裙横_1_0",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "080_裙_3_4",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.137,
+          -0.056,
+          0.758
+        ],
+        [
+          0.168,
+          0.072,
+          0.817
+        ]
+      ]
+    },
+    {
+      "name": "081_J.裙横_1_1",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "081_裙_3_5",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.094,
+          -0.017,
+          0.758
+        ],
+        [
+          0.188,
+          0.107,
+          0.818
+        ]
+      ]
+    },
+    {
+      "name": "082_J.裙横_1_2",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "082_裙_3_6",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.046,
+          0.03,
+          0.758
+        ],
+        [
+          0.169,
+          0.123,
+          0.818
+        ]
+      ]
+    },
+    {
+      "name": "083_J.裙横_1_3",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "083_裙_3_7",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.007,
+          0.068,
+          0.759
+        ],
+        [
+          0.123,
+          0.127,
+          0.817
+        ]
+      ]
+    },
+    {
+      "name": "084_J.裙横_1_4",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "084_裙_3_8",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.064,
+          0.092,
+          0.759
+        ],
+        [
+          0.064,
+          0.118,
+          0.817
+        ]
+      ]
+    },
+    {
+      "name": "085_J.裙横_1_5",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "085_裙_3_9",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.123,
+          0.068,
+          0.759
+        ],
+        [
+          0.007,
+          0.127,
+          0.817
+        ]
+      ]
+    },
+    {
+      "name": "086_J.裙横_1_6",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "086_裙_3_10",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.169,
+          0.03,
+          0.758
+        ],
+        [
+          -0.046,
+          0.123,
+          0.818
+        ]
+      ]
+    },
+    {
+      "name": "087_J.裙横_1_7",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "087_裙_3_11",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.188,
+          -0.017,
+          0.758
+        ],
+        [
+          -0.094,
+          0.107,
+          0.818
+        ]
+      ]
+    },
+    {
+      "name": "088_J.裙横_1_8",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "088_裙_3_12",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.168,
+          -0.056,
+          0.758
+        ],
+        [
+          -0.137,
+          0.072,
+          0.817
+        ]
+      ]
+    },
+    {
+      "name": "089_J.裙横_1_9",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "089_裙_3_13",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.187,
+          -0.091,
+          0.759
+        ],
+        [
+          -0.094,
+          0.033,
+          0.816
+        ]
+      ]
+    },
+    {
+      "name": "090_J.裙横_1_10",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "090_裙_3_14",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.169,
+          -0.106,
+          0.759
+        ],
+        [
+          -0.047,
+          -0.014,
+          0.816
+        ]
+      ]
+    },
+    {
+      "name": "091_J.裙横_1_11",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "091_裙_3_15",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_7": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.123,
+          -0.11,
+          0.759
+        ],
+        [
+          0.007,
+          -0.053,
+          0.815
+        ]
+      ]
+    },
+    {
+      "name": "092_J.裙横_1_12",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "092_左足",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.006,
+          -0.079,
+          0.644
+        ],
+        [
+          0.142,
+          0.067,
+          0.868
+        ]
+      ]
+    },
+    {
+      "name": "093_J.裙横_1_13",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "093_右足",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.142,
+          -0.079,
+          0.644
+        ],
+        [
+          0.006,
+          0.067,
+          0.868
+        ]
+      ]
+    },
+    {
+      "name": "094_J.裙横_1_14",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "094_下半身2",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.136,
+          -0.071,
+          0.738
+        ],
+        [
+          0.136,
+          0.089,
+          0.898
+        ]
+      ]
+    },
+    {
+      "name": "095_J.裙横_1_15",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "095_下半身3",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.132,
+          -0.073,
+          0.781
+        ],
+        [
+          0.132,
+          0.079,
+          0.933
+        ]
+      ]
+    },
+    {
+      "name": "096_HairSL_01",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.053,
+          -0.034,
+          1.394
+        ],
+        [
+          0.069,
+          -0.018,
+          1.443
+        ]
+      ]
+    },
+    {
+      "name": "096_J.裙横_2_0",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "097_HairSL_02",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.053,
+          -0.034,
+          1.362
+        ],
+        [
+          0.069,
+          -0.018,
+          1.41
+        ]
+      ]
+    },
+    {
+      "name": "097_J.裙横_2_1",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "098_HairSL_03",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.053,
+          -0.034,
+          1.338
+        ],
+        [
+          0.069,
+          -0.018,
+          1.378
+        ]
+      ]
+    },
+    {
+      "name": "098_J.裙横_2_2",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "099_HairSL_04",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.046,
+          -0.034,
+          1.316
+        ],
+        [
+          0.068,
+          -0.018,
+          1.355
+        ]
+      ]
+    },
+    {
+      "name": "099_J.裙横_2_3",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "100_HairSL_05",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.021,
+          -0.038,
+          1.276
+        ],
+        [
+          0.061,
+          -0.018,
+          1.332
+        ]
+      ]
+    },
+    {
+      "name": "100_J.裙横_2_4",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "101_HairSR_01",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.075,
+          -0.031,
+          1.394
+        ],
+        [
+          -0.059,
+          -0.015,
+          1.443
+        ]
+      ]
+    },
+    {
+      "name": "101_J.裙横_2_5",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "102_HairSR_02",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.075,
+          -0.031,
+          1.362
+        ],
+        [
+          -0.059,
+          -0.015,
+          1.41
+        ]
+      ]
+    },
+    {
+      "name": "102_J.裙横_2_6",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "103_HairSR_03",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.075,
+          -0.031,
+          1.339
+        ],
+        [
+          -0.059,
+          -0.015,
+          1.378
+        ]
+      ]
+    },
+    {
+      "name": "103_J.裙横_2_7",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "104_HairSR_04",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.075,
+          -0.031,
+          1.316
+        ],
+        [
+          -0.059,
+          -0.015,
+          1.355
+        ]
+      ]
+    },
+    {
+      "name": "104_J.裙横_2_8",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "105_HairSR_05",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.075,
+          -0.031,
+          1.292
+        ],
+        [
+          -0.059,
+          -0.015,
+          1.332
+        ]
+      ]
+    },
+    {
+      "name": "105_J.裙横_2_9",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "106_hair1-1",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.002,
+          -0.095,
+          1.469
+        ],
+        [
+          0.014,
+          -0.079,
+          1.546
+        ]
+      ]
+    },
+    {
+      "name": "106_J.裙横_2_10",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "107_hair1-2",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.002,
+          -0.095,
+          1.424
+        ],
+        [
+          0.014,
+          -0.079,
+          1.493
+        ]
+      ]
+    },
+    {
+      "name": "107_J.裙横_2_11",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "108_hair1-3",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.002,
+          -0.095,
+          1.375
+        ],
+        [
+          0.014,
+          -0.079,
+          1.444
+        ]
+      ]
+    },
+    {
+      "name": "108_J.裙横_2_12",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "109_hair2-1",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.023,
+          -0.094,
+          1.456
+        ],
+        [
+          -0.007,
+          -0.078,
+          1.507
+        ]
+      ]
+    },
+    {
+      "name": "109_J.裙横_2_13",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "110_hair2-2",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.023,
+          -0.094,
+          1.431
+        ],
+        [
+          -0.007,
+          -0.078,
+          1.477
+        ]
+      ]
+    },
+    {
+      "name": "110_J.裙横_2_14",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "111_hair2-3",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_4": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.023,
+          -0.094,
+          1.415
+        ],
+        [
+          -0.007,
+          -0.078,
+          1.453
+        ]
+      ]
+    },
+    {
+      "name": "111_J.裙横_2_15",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "112_J.裙横_3_0",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "112_頭1",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.061,
+          -0.073,
+          1.33
+        ],
+        [
+          0.055,
+          0.007,
+          1.41
+        ]
+      ]
+    },
+    {
+      "name": "113_J.裙横_3_1",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "113_頭2",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.061,
+          -0.053,
+          1.33
+        ],
+        [
+          0.055,
+          0.027,
+          1.41
+        ]
+      ]
+    },
+    {
+      "name": "114_J.裙横_3_2",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "114_M-M-M-頭",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.061,
+          -0.072,
+          1.367
+        ],
+        [
+          0.055,
+          0.008,
+          1.447
+        ]
+      ]
+    },
+    {
+      "name": "115_HairB",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 8,
+      "polygons": 6,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_6": 6
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.08,
+          0.088,
+          1.32
+        ],
+        [
+          0.08,
+          0.104,
+          1.48
+        ]
+      ]
+    },
+    {
+      "name": "115_J.裙横_3_3",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "116_J.裙横_3_4",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "116_左腕",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_1": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.177,
+          -0.015,
+          1.122
+        ],
+        [
+          0.273,
+          0.077,
+          1.215
+        ]
+      ]
+    },
+    {
+      "name": "117_J.裙横_3_5",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "117_右腕",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_1": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.273,
+          -0.015,
+          1.122
+        ],
+        [
+          -0.177,
+          0.077,
+          1.215
+        ]
+      ]
+    },
+    {
+      "name": "118_J.裙横_3_6",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "118_右足",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.163,
+          -0.067,
+          0.62
+        ],
+        [
+          -0.015,
+          0.077,
+          0.844
+        ]
+      ]
+    },
+    {
+      "name": "119_J.裙横_3_7",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "119_左足",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.015,
+          -0.067,
+          0.62
+        ],
+        [
+          0.163,
+          0.077,
+          0.844
+        ]
+      ]
+    },
+    {
+      "name": "120_J.裙横_3_8",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "120_下半身4",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.144,
+          -0.07,
+          0.746
+        ],
+        [
+          0.144,
+          0.074,
+          0.89
+        ]
+      ]
+    },
+    {
+      "name": "121_J.裙横_3_9",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "121_左足",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          0.014,
+          -0.084,
+          0.555
+        ],
+        [
+          0.164,
+          0.064,
+          0.818
+        ]
+      ]
+    },
+    {
+      "name": "122_J.裙横_3_10",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "122_右足",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.164,
+          -0.084,
+          0.555
+        ],
+        [
+          -0.014,
+          0.064,
+          0.818
+        ]
+      ]
+    },
+    {
+      "name": "123_J.裙横_3_11",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "123_左足",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.005,
+          -0.082,
+          0.68
+        ],
+        [
+          0.143,
+          0.063,
+          0.903
+        ]
+      ]
+    },
+    {
+      "name": "124_J.裙横_3_12",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "124_右足",
+      "type": "MESH",
+      "parent": "rigidbodies",
+      "hidden": true,
+      "vertices": 34,
+      "polygons": 40,
+      "shape_keys": [],
+      "material_faces": {
+        "mmd_tools_rigid_0": 40
+      },
+      "vertex_groups": 0,
+      "armature_modifiers": [],
+      "bounds": [
+        [
+          -0.143,
+          -0.082,
+          0.68
+        ],
+        [
+          0.005,
+          0.063,
+          0.903
+        ]
+      ]
+    },
+    {
+      "name": "125_J.裙横_3_13",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "126_J.裙横_3_14",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "127_J.裙横_3_15",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "128_J.HairSL_01",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "129_J.HairSL_02",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "130_J.HairSL_03",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "131_J.HairSL_04",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "132_J.HairSL_05",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "133_J.HairSR_01",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "134_J.HairSR_02",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "135_J.HairSR_03",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "136_J.HairSR_04",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "137_J.HairSR_05",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "138_J.hair1-1",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "139_J.hair1-2",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "140_J.hair1-3",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "141_J.hair2-1",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "142_J.hair2-2",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "143_J.hair2-3",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "144_J.HairB",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "145_J.左胸上",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "146_J.右胸上",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "147_J.左胸上2",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "148_J.右胸上2",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "149_J.左胸下",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "150_J.右胸下",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "151_J.左胸補助",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "152_J.右胸補助",
+      "type": "EMPTY",
+      "parent": "joints",
+      "hidden": true
+    },
+    {
+      "name": "joints",
+      "type": "EMPTY",
+      "parent": "安比",
+      "hidden": true
+    },
+    {
+      "name": "rigidbodies",
+      "type": "EMPTY",
+      "parent": "安比",
+      "hidden": true
+    },
+    {
+      "name": "刀",
+      "type": "EMPTY",
+      "parent": null,
+      "hidden": false
+    },
+    {
+      "name": "刀_arm",
+      "type": "ARMATURE",
+      "parent": "刀",
+      "hidden": false,
+      "bone_count": 7,
+      "bones": [
+        {
+          "name": "Anbi_Weapon_01",
+          "parent": null,
+          "english": ""
+        },
+        {
+          "name": "Anbi_Weapon_Bone02",
+          "parent": "Anbi_Weapon_01",
+          "english": ""
+        },
+        {
+          "name": "Anbi_Weapon_Bone03",
+          "parent": "Anbi_Weapon_Bone02",
+          "english": ""
+        },
+        {
+          "name": "Anbi_Weapon_Bone05",
+          "parent": "Anbi_Weapon_01",
+          "english": ""
+        },
+        {
+          "name": "Anbi_Weapon_Bone06",
+          "parent": "Anbi_Weapon_Bone05",
+          "english": ""
+        },
+        {
+          "name": "Anbi_Weapon_Bone01",
+          "parent": "Anbi_Weapon_01",
+          "english": ""
+        },
+        {
+          "name": "刀",
+          "parent": null,
+          "english": ""
+        }
+      ]
+    },
+    {
+      "name": "刀_mesh",
+      "type": "MESH",
+      "parent": "刀_arm",
+      "hidden": false,
+      "vertices": 2898,
+      "polygons": 2494,
+      "shape_keys": [
+        "Basis"
+      ],
+      "material_faces": {
+        "武器": 2494
+      },
+      "vertex_groups": 9,
+      "armature_modifiers": [
+        "刀_arm"
+      ],
+      "bounds": [
+        [
+          -0.059,
+          -0.534,
+          -0.03
+        ],
+        [
+          0.031,
+          0.522,
+          0.198
+        ]
+      ]
+    },
+    {
+      "name": "安比",
+      "type": "EMPTY",
+      "parent": null,
+      "hidden": false
+    },
+    {
+      "name": "安比_arm",
+      "type": "ARMATURE",
+      "parent": "安比",
+      "hidden": false,
+      "bone_count": 285,
+      "bones": [
+        {
+          "name": "全ての親",
+          "parent": null,
+          "english": ""
+        },
+        {
+          "name": "センター",
+          "parent": "全ての親",
+          "english": ""
+        },
+        {
+          "name": "グルーブ",
+          "parent": "センター",
+          "english": "groove"
+        },
+        {
+          "name": "腰",
+          "parent": "グルーブ",
+          "english": "waist"
+        },
+        {
+          "name": "_dummy_腰キャンセル.L",
+          "parent": "腰",
+          "english": ""
+        },
+        {
+          "name": "_dummy_腰キャンセル.R",
+          "parent": "腰",
+          "english": ""
+        },
+        {
+          "name": "下半身",
+          "parent": "グルーブ",
+          "english": ""
+        },
+        {
+          "name": "腰キャンセル.L",
+          "parent": "下半身",
+          "english": ""
+        },
+        {
+          "name": "足.L",
+          "parent": "腰キャンセル.L",
+          "english": ""
+        },
+        {
+          "name": "ひざ.L",
+          "parent": "足.L",
+          "english": ""
+        },
+        {
+          "name": "足首.L",
+          "parent": "ひざ.L",
+          "english": ""
+        },
+        {
+          "name": "つま先.L",
+          "parent": "足首.L",
+          "english": ""
+        },
+        {
+          "name": "_dummy_足首D.L",
+          "parent": "足首.L",
+          "english": ""
+        },
+        {
+          "name": "_dummy_ひざD.L",
+          "parent": "ひざ.L",
+          "english": ""
+        },
+        {
+          "name": "_shadow_足首D.L",
+          "parent": "ひざ.L",
+          "english": ""
+        },
+        {
+          "name": "_dummy_足D.L",
+          "parent": "足.L",
+          "english": ""
+        },
+        {
+          "name": "_shadow_ひざD.L",
+          "parent": "足.L",
+          "english": ""
+        },
+        {
+          "name": "足D.L",
+          "parent": "腰キャンセル.L",
+          "english": "D"
+        },
+        {
+          "name": "ひざD.L",
+          "parent": "足D.L",
+          "english": "D"
+        },
+        {
+          "name": "足首D.L",
+          "parent": "ひざD.L",
+          "english": "D"
+        },
+        {
+          "name": "足先EX.L",
+          "parent": "足首D.L",
+          "english": "toe2_L"
+        },
+        {
+          "name": "_shadow_足D.L",
+          "parent": "腰キャンセル.L",
+          "english": ""
+        },
+        {
+          "name": "腰キャンセル.R",
+          "parent": "下半身",
+          "english": ""
+        },
+        {
+          "name": "足.R",
+          "parent": "腰キャンセル.R",
+          "english": ""
+        },
+        {
+          "name": "ひざ.R",
+          "parent": "足.R",
+          "english": ""
+        },
+        {
+          "name": "足首.R",
+          "parent": "ひざ.R",
+          "english": ""
+        },
+        {
+          "name": "つま先.R",
+          "parent": "足首.R",
+          "english": ""
+        },
+        {
+          "name": "_dummy_足首D.R",
+          "parent": "足首.R",
+          "english": ""
+        },
+        {
+          "name": "_dummy_ひざD.R",
+          "parent": "ひざ.R",
+          "english": ""
+        },
+        {
+          "name": "_shadow_足首D.R",
+          "parent": "ひざ.R",
+          "english": ""
+        },
+        {
+          "name": "_dummy_足D.R",
+          "parent": "足.R",
+          "english": ""
+        },
+        {
+          "name": "_shadow_ひざD.R",
+          "parent": "足.R",
+          "english": ""
+        },
+        {
+          "name": "足D.R",
+          "parent": "腰キャンセル.R",
+          "english": "D"
+        },
+        {
+          "name": "ひざD.R",
+          "parent": "足D.R",
+          "english": "D"
+        },
+        {
+          "name": "足首D.R",
+          "parent": "ひざD.R",
+          "english": "D"
+        },
+        {
+          "name": "足先EX.R",
+          "parent": "足首D.R",
+          "english": "toe2_R"
+        },
+        {
+          "name": "_shadow_足D.R",
+          "parent": "腰キャンセル.R",
+          "english": ""
+        },
+        {
+          "name": "裙_0_0",
+          "parent": "下半身",
+          "english": "Skirt_0_0"
+        },
+        {
+          "name": "裙_1_0",
+          "parent": "裙_0_0",
+          "english": "Skirt_1_0"
+        },
+        {
+          "name": "裙_2_0",
+          "parent": "裙_1_0",
+          "english": "Skirt_2_0"
+        },
+        {
+          "name": "裙_3_0",
+          "parent": "裙_2_0",
+          "english": "Skirt_3_0"
+        },
+        {
+          "name": "裙_4_0",
+          "parent": "裙_3_0",
+          "english": "Skirt_4_0"
+        },
+        {
+          "name": "裙_0_1",
+          "parent": "下半身",
+          "english": "Skirt_0_1"
+        },
+        {
+          "name": "裙_1_1",
+          "parent": "裙_0_1",
+          "english": "Skirt_1_1"
+        },
+        {
+          "name": "裙_2_1",
+          "parent": "裙_1_1",
+          "english": "Skirt_2_1"
+        },
+        {
+          "name": "裙_3_1",
+          "parent": "裙_2_1",
+          "english": "Skirt_3_1"
+        },
+        {
+          "name": "裙_4_1",
+          "parent": "裙_3_1",
+          "english": "Skirt_4_1"
+        },
+        {
+          "name": "裙_0_2",
+          "parent": "下半身",
+          "english": "Skirt_0_2"
+        },
+        {
+          "name": "裙_1_2",
+          "parent": "裙_0_2",
+          "english": "Skirt_1_2"
+        },
+        {
+          "name": "裙_2_2",
+          "parent": "裙_1_2",
+          "english": "Skirt_2_2"
+        },
+        {
+          "name": "裙_3_2",
+          "parent": "裙_2_2",
+          "english": "Skirt_3_2"
+        },
+        {
+          "name": "裙_4_2",
+          "parent": "裙_3_2",
+          "english": "Skirt_4_2"
+        },
+        {
+          "name": "裙_0_3",
+          "parent": "下半身",
+          "english": "Skirt_0_3"
+        },
+        {
+          "name": "裙_1_3",
+          "parent": "裙_0_3",
+          "english": "Skirt_1_3"
+        },
+        {
+          "name": "裙_2_3",
+          "parent": "裙_1_3",
+          "english": "Skirt_2_3"
+        },
+        {
+          "name": "裙_3_3",
+          "parent": "裙_2_3",
+          "english": "Skirt_3_3"
+        },
+        {
+          "name": "裙_4_3",
+          "parent": "裙_3_3",
+          "english": "Skirt_4_3"
+        },
+        {
+          "name": "裙_0_4",
+          "parent": "下半身",
+          "english": "Skirt_0_4"
+        },
+        {
+          "name": "裙_1_4",
+          "parent": "裙_0_4",
+          "english": "Skirt_1_4"
+        },
+        {
+          "name": "裙_2_4",
+          "parent": "裙_1_4",
+          "english": "Skirt_2_4"
+        },
+        {
+          "name": "裙_3_4",
+          "parent": "裙_2_4",
+          "english": "Skirt_3_4"
+        },
+        {
+          "name": "裙_4_4",
+          "parent": "裙_3_4",
+          "english": "Skirt_4_4"
+        },
+        {
+          "name": "裙_0_5",
+          "parent": "下半身",
+          "english": "Skirt_0_5"
+        },
+        {
+          "name": "裙_1_5",
+          "parent": "裙_0_5",
+          "english": "Skirt_1_5"
+        },
+        {
+          "name": "裙_2_5",
+          "parent": "裙_1_5",
+          "english": "Skirt_2_5"
+        },
+        {
+          "name": "裙_3_5",
+          "parent": "裙_2_5",
+          "english": "Skirt_3_5"
+        },
+        {
+          "name": "裙_4_5",
+          "parent": "裙_3_5",
+          "english": "Skirt_4_5"
+        },
+        {
+          "name": "裙_0_6",
+          "parent": "下半身",
+          "english": "Skirt_0_6"
+        },
+        {
+          "name": "裙_1_6",
+          "parent": "裙_0_6",
+          "english": "Skirt_1_6"
+        },
+        {
+          "name": "裙_2_6",
+          "parent": "裙_1_6",
+          "english": "Skirt_2_6"
+        },
+        {
+          "name": "裙_3_6",
+          "parent": "裙_2_6",
+          "english": "Skirt_3_6"
+        },
+        {
+          "name": "裙_4_6",
+          "parent": "裙_3_6",
+          "english": "Skirt_4_6"
+        },
+        {
+          "name": "裙_0_7",
+          "parent": "下半身",
+          "english": "Skirt_0_7"
+        },
+        {
+          "name": "裙_1_7",
+          "parent": "裙_0_7",
+          "english": "Skirt_1_7"
+        },
+        {
+          "name": "裙_2_7",
+          "parent": "裙_1_7",
+          "english": "Skirt_2_7"
+        },
+        {
+          "name": "裙_3_7",
+          "parent": "裙_2_7",
+          "english": "Skirt_3_7"
+        },
+        {
+          "name": "裙_4_7",
+          "parent": "裙_3_7",
+          "english": "Skirt_4_7"
+        },
+        {
+          "name": "裙_0_8",
+          "parent": "下半身",
+          "english": "Skirt_0_8"
+        },
+        {
+          "name": "裙_1_8",
+          "parent": "裙_0_8",
+          "english": "Skirt_1_8"
+        },
+        {
+          "name": "裙_2_8",
+          "parent": "裙_1_8",
+          "english": "Skirt_2_8"
+        },
+        {
+          "name": "裙_3_8",
+          "parent": "裙_2_8",
+          "english": "Skirt_3_8"
+        },
+        {
+          "name": "裙_4_8",
+          "parent": "裙_3_8",
+          "english": "Skirt_4_8"
+        },
+        {
+          "name": "裙_0_9",
+          "parent": "下半身",
+          "english": "Skirt_0_9"
+        },
+        {
+          "name": "裙_1_9",
+          "parent": "裙_0_9",
+          "english": "Skirt_1_9"
+        },
+        {
+          "name": "裙_2_9",
+          "parent": "裙_1_9",
+          "english": "Skirt_2_9"
+        },
+        {
+          "name": "裙_3_9",
+          "parent": "裙_2_9",
+          "english": "Skirt_3_9"
+        },
+        {
+          "name": "裙_4_9",
+          "parent": "裙_3_9",
+          "english": "Skirt_4_9"
+        },
+        {
+          "name": "裙_0_10",
+          "parent": "下半身",
+          "english": "Skirt_0_10"
+        },
+        {
+          "name": "裙_1_10",
+          "parent": "裙_0_10",
+          "english": "Skirt_1_10"
+        },
+        {
+          "name": "裙_2_10",
+          "parent": "裙_1_10",
+          "english": "Skirt_2_10"
+        },
+        {
+          "name": "裙_3_10",
+          "parent": "裙_2_10",
+          "english": "Skirt_3_10"
+        },
+        {
+          "name": "裙_4_10",
+          "parent": "裙_3_10",
+          "english": "Skirt_4_10"
+        },
+        {
+          "name": "裙_0_11",
+          "parent": "下半身",
+          "english": "Skirt_0_11"
+        },
+        {
+          "name": "裙_1_11",
+          "parent": "裙_0_11",
+          "english": "Skirt_1_11"
+        },
+        {
+          "name": "裙_2_11",
+          "parent": "裙_1_11",
+          "english": "Skirt_2_11"
+        },
+        {
+          "name": "裙_3_11",
+          "parent": "裙_2_11",
+          "english": "Skirt_3_11"
+        },
+        {
+          "name": "裙_4_11",
+          "parent": "裙_3_11",
+          "english": "Skirt_4_11"
+        },
+        {
+          "name": "裙_0_12",
+          "parent": "下半身",
+          "english": "Skirt_0_12"
+        },
+        {
+          "name": "裙_1_12",
+          "parent": "裙_0_12",
+          "english": "Skirt_1_12"
+        },
+        {
+          "name": "裙_2_12",
+          "parent": "裙_1_12",
+          "english": "Skirt_2_12"
+        },
+        {
+          "name": "裙_3_12",
+          "parent": "裙_2_12",
+          "english": "Skirt_3_12"
+        },
+        {
+          "name": "裙_4_12",
+          "parent": "裙_3_12",
+          "english": "Skirt_4_12"
+        },
+        {
+          "name": "裙_0_13",
+          "parent": "下半身",
+          "english": "Skirt_0_13"
+        },
+        {
+          "name": "裙_1_13",
+          "parent": "裙_0_13",
+          "english": "Skirt_1_13"
+        },
+        {
+          "name": "裙_2_13",
+          "parent": "裙_1_13",
+          "english": "Skirt_2_13"
+        },
+        {
+          "name": "裙_3_13",
+          "parent": "裙_2_13",
+          "english": "Skirt_3_13"
+        },
+        {
+          "name": "裙_4_13",
+          "parent": "裙_3_13",
+          "english": "Skirt_4_13"
+        },
+        {
+          "name": "裙_0_14",
+          "parent": "下半身",
+          "english": "Skirt_0_14"
+        },
+        {
+          "name": "裙_1_14",
+          "parent": "裙_0_14",
+          "english": "Skirt_1_14"
+        },
+        {
+          "name": "裙_2_14",
+          "parent": "裙_1_14",
+          "english": "Skirt_2_14"
+        },
+        {
+          "name": "裙_3_14",
+          "parent": "裙_2_14",
+          "english": "Skirt_3_14"
+        },
+        {
+          "name": "裙_4_14",
+          "parent": "裙_3_14",
+          "english": "Skirt_4_14"
+        },
+        {
+          "name": "裙_0_15",
+          "parent": "下半身",
+          "english": "Skirt_0_15"
+        },
+        {
+          "name": "裙_1_15",
+          "parent": "裙_0_15",
+          "english": "Skirt_1_15"
+        },
+        {
+          "name": "裙_2_15",
+          "parent": "裙_1_15",
+          "english": "Skirt_2_15"
+        },
+        {
+          "name": "裙_3_15",
+          "parent": "裙_2_15",
+          "english": "Skirt_3_15"
+        },
+        {
+          "name": "裙_4_15",
+          "parent": "裙_3_15",
+          "english": "Skirt_4_15"
+        },
+        {
+          "name": "上半身",
+          "parent": "グルーブ",
+          "english": ""
+        },
+        {
+          "name": "上半身1",
+          "parent": "上半身",
+          "english": ""
+        },
+        {
+          "name": "上半身2",
+          "parent": "上半身1",
+          "english": ""
+        },
+        {
+          "name": "首",
+          "parent": "上半身2",
+          "english": ""
+        },
+        {
+          "name": "頭",
+          "parent": "首",
+          "english": ""
+        },
+        {
+          "name": "目.R",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "目先.R",
+          "parent": "目.R",
+          "english": ""
+        },
+        {
+          "name": "_dummy_目先.R",
+          "parent": "目.R",
+          "english": ""
+        },
+        {
+          "name": "目.L",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "目先.L",
+          "parent": "目.L",
+          "english": ""
+        },
+        {
+          "name": "_dummy_目先.L",
+          "parent": "目.L",
+          "english": ""
+        },
+        {
+          "name": "両目",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "両目先",
+          "parent": "両目",
+          "english": ""
+        },
+        {
+          "name": "_dummy_目.R",
+          "parent": "両目",
+          "english": ""
+        },
+        {
+          "name": "_dummy_目.L",
+          "parent": "両目",
+          "english": ""
+        },
+        {
+          "name": "口中",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "口.R",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "口.L",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "HairSL_01",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "HairSL_02",
+          "parent": "HairSL_01",
+          "english": ""
+        },
+        {
+          "name": "HairSL_03",
+          "parent": "HairSL_02",
+          "english": ""
+        },
+        {
+          "name": "HairSL_04",
+          "parent": "HairSL_03",
+          "english": ""
+        },
+        {
+          "name": "HairSL_05",
+          "parent": "HairSL_04",
+          "english": ""
+        },
+        {
+          "name": "HairSR_01",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "HairSR_02",
+          "parent": "HairSR_01",
+          "english": ""
+        },
+        {
+          "name": "HairSR_03",
+          "parent": "HairSR_02",
+          "english": ""
+        },
+        {
+          "name": "HairSR_04",
+          "parent": "HairSR_03",
+          "english": ""
+        },
+        {
+          "name": "HairSR_05",
+          "parent": "HairSR_04",
+          "english": ""
+        },
+        {
+          "name": "HairB",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "hair1-1",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "hair1-2",
+          "parent": "hair1-1",
+          "english": ""
+        },
+        {
+          "name": "hair1-3",
+          "parent": "hair1-2",
+          "english": ""
+        },
+        {
+          "name": "hair2-1",
+          "parent": "hair1-1",
+          "english": ""
+        },
+        {
+          "name": "hair2-2",
+          "parent": "hair2-1",
+          "english": ""
+        },
+        {
+          "name": "hair2-3",
+          "parent": "hair2-2",
+          "english": ""
+        },
+        {
+          "name": "_shadow_目.R",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "_shadow_目先.R",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "_shadow_目.L",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "_shadow_目先.L",
+          "parent": "頭",
+          "english": ""
+        },
+        {
+          "name": "肩P.L",
+          "parent": "上半身2",
+          "english": "shoulderP_L"
+        },
+        {
+          "name": "肩.L",
+          "parent": "肩P.L",
+          "english": ""
+        },
+        {
+          "name": "肩C.L",
+          "parent": "肩.L",
+          "english": ""
+        },
+        {
+          "name": "腕.L",
+          "parent": "肩C.L",
+          "english": ""
+        },
+        {
+          "name": "腕捩.L",
+          "parent": "腕.L",
+          "english": "arm twist_L"
+        },
+        {
+          "name": "ひじ.L",
+          "parent": "腕捩.L",
+          "english": ""
+        },
+        {
+          "name": "手捩.L",
+          "parent": "ひじ.L",
+          "english": "wrist twist_L"
+        },
+        {
+          "name": "手首.L",
+          "parent": "手捩.L",
+          "english": ""
+        },
+        {
+          "name": "ダミー.L",
+          "parent": "手首.L",
+          "english": "dummy_L"
+        },
+        {
+          "name": "手先.L",
+          "parent": "手首.L",
+          "english": ""
+        },
+        {
+          "name": "親指０.L",
+          "parent": "手首.L",
+          "english": ""
+        },
+        {
+          "name": "親指１.L",
+          "parent": "親指０.L",
+          "english": ""
+        },
+        {
+          "name": "親指２.L",
+          "parent": "親指１.L",
+          "english": ""
+        },
+        {
+          "name": "親指先.L",
+          "parent": "親指２.L",
+          "english": ""
+        },
+        {
+          "name": "人指１.L",
+          "parent": "手首.L",
+          "english": ""
+        },
+        {
+          "name": "人指２.L",
+          "parent": "人指１.L",
+          "english": ""
+        },
+        {
+          "name": "人指３.L",
+          "parent": "人指２.L",
+          "english": ""
+        },
+        {
+          "name": "人指先.L",
+          "parent": "人指３.L",
+          "english": ""
+        },
+        {
+          "name": "中指１.L",
+          "parent": "手首.L",
+          "english": ""
+        },
+        {
+          "name": "中指２.L",
+          "parent": "中指１.L",
+          "english": ""
+        },
+        {
+          "name": "中指３.L",
+          "parent": "中指２.L",
+          "english": ""
+        },
+        {
+          "name": "中指先.L",
+          "parent": "中指３.L",
+          "english": ""
+        },
+        {
+          "name": "薬指１.L",
+          "parent": "手首.L",
+          "english": ""
+        },
+        {
+          "name": "薬指２.L",
+          "parent": "薬指１.L",
+          "english": ""
+        },
+        {
+          "name": "薬指３.L",
+          "parent": "薬指２.L",
+          "english": ""
+        },
+        {
+          "name": "薬指先.L",
+          "parent": "薬指３.L",
+          "english": ""
+        },
+        {
+          "name": "小指１.L",
+          "parent": "手首.L",
+          "english": ""
+        },
+        {
+          "name": "小指２.L",
+          "parent": "小指１.L",
+          "english": ""
+        },
+        {
+          "name": "小指３.L",
+          "parent": "小指２.L",
+          "english": ""
+        },
+        {
+          "name": "小指先.L",
+          "parent": "小指３.L",
+          "english": ""
+        },
+        {
+          "name": "袖饰親.L",
+          "parent": "手捩.L",
+          "english": ""
+        },
+        {
+          "name": "袖饰1.L",
+          "parent": "袖饰親.L",
+          "english": ""
+        },
+        {
+          "name": "袖饰2.L",
+          "parent": "袖饰1.L",
+          "english": ""
+        },
+        {
+          "name": "袖饰3.L",
+          "parent": "袖饰2.L",
+          "english": ""
+        },
+        {
+          "name": "_dummy_手捩1.L",
+          "parent": "手捩.L",
+          "english": ""
+        },
+        {
+          "name": "_dummy_手捩2.L",
+          "parent": "手捩.L",
+          "english": ""
+        },
+        {
+          "name": "_dummy_手捩3.L",
+          "parent": "手捩.L",
+          "english": ""
+        },
+        {
+          "name": "手捩1.L",
+          "parent": "ひじ.L",
+          "english": ""
+        },
+        {
+          "name": "手捩2.L",
+          "parent": "ひじ.L",
+          "english": ""
+        },
+        {
+          "name": "手捩3.L",
+          "parent": "ひじ.L",
+          "english": ""
+        },
+        {
+          "name": "_shadow_手捩1.L",
+          "parent": "ひじ.L",
+          "english": ""
+        },
+        {
+          "name": "_shadow_手捩2.L",
+          "parent": "ひじ.L",
+          "english": ""
+        },
+        {
+          "name": "_shadow_手捩3.L",
+          "parent": "ひじ.L",
+          "english": ""
+        },
+        {
+          "name": "_dummy_腕捩1.L",
+          "parent": "腕捩.L",
+          "english": ""
+        },
+        {
+          "name": "_dummy_腕捩2.L",
+          "parent": "腕捩.L",
+          "english": ""
+        },
+        {
+          "name": "_dummy_腕捩3.L",
+          "parent": "腕捩.L",
+          "english": ""
+        },
+        {
+          "name": "腕捩1.L",
+          "parent": "腕.L",
+          "english": ""
+        },
+        {
+          "name": "腕捩2.L",
+          "parent": "腕.L",
+          "english": ""
+        },
+        {
+          "name": "腕捩3.L",
+          "parent": "腕.L",
+          "english": ""
+        },
+        {
+          "name": "_shadow_腕捩1.L",
+          "parent": "腕.L",
+          "english": ""
+        },
+        {
+          "name": "_shadow_腕捩2.L",
+          "parent": "腕.L",
+          "english": ""
+        },
+        {
+          "name": "_shadow_腕捩3.L",
+          "parent": "腕.L",
+          "english": ""
+        },
+        {
+          "name": "_dummy_肩C.L",
+          "parent": "肩P.L",
+          "english": ""
+        },
+        {
+          "name": "肩P.R",
+          "parent": "上半身2",
+          "english": "shoulderP_R"
+        },
+        {
+          "name": "肩.R",
+          "parent": "肩P.R",
+          "english": ""
+        },
+        {
+          "name": "肩C.R",
+          "parent": "肩.R",
+          "english": ""
+        },
+        {
+          "name": "腕.R",
+          "parent": "肩C.R",
+          "english": ""
+        },
+        {
+          "name": "腕捩.R",
+          "parent": "腕.R",
+          "english": "arm twist_R"
+        },
+        {
+          "name": "ひじ.R",
+          "parent": "腕捩.R",
+          "english": ""
+        },
+        {
+          "name": "手捩.R",
+          "parent": "ひじ.R",
+          "english": "wrist twist_R"
+        },
+        {
+          "name": "手首.R",
+          "parent": "手捩.R",
+          "english": ""
+        },
+        {
+          "name": "ダミー.R",
+          "parent": "手首.R",
+          "english": "dummy_R"
+        },
+        {
+          "name": "手先.R",
+          "parent": "手首.R",
+          "english": ""
+        },
+        {
+          "name": "親指０.R",
+          "parent": "手首.R",
+          "english": ""
+        },
+        {
+          "name": "親指１.R",
+          "parent": "親指０.R",
+          "english": ""
+        },
+        {
+          "name": "親指２.R",
+          "parent": "親指１.R",
+          "english": ""
+        },
+        {
+          "name": "親指先.R",
+          "parent": "親指２.R",
+          "english": ""
+        },
+        {
+          "name": "人指１.R",
+          "parent": "手首.R",
+          "english": ""
+        },
+        {
+          "name": "人指２.R",
+          "parent": "人指１.R",
+          "english": ""
+        },
+        {
+          "name": "人指３.R",
+          "parent": "人指２.R",
+          "english": ""
+        },
+        {
+          "name": "人指先.R",
+          "parent": "人指３.R",
+          "english": ""
+        },
+        {
+          "name": "中指１.R",
+          "parent": "手首.R",
+          "english": ""
+        },
+        {
+          "name": "中指２.R",
+          "parent": "中指１.R",
+          "english": ""
+        },
+        {
+          "name": "中指３.R",
+          "parent": "中指２.R",
+          "english": ""
+        },
+        {
+          "name": "中指先.R",
+          "parent": "中指３.R",
+          "english": ""
+        },
+        {
+          "name": "薬指１.R",
+          "parent": "手首.R",
+          "english": ""
+        },
+        {
+          "name": "薬指２.R",
+          "parent": "薬指１.R",
+          "english": ""
+        },
+        {
+          "name": "薬指３.R",
+          "parent": "薬指２.R",
+          "english": ""
+        },
+        {
+          "name": "薬指先.R",
+          "parent": "薬指３.R",
+          "english": ""
+        },
+        {
+          "name": "小指１.R",
+          "parent": "手首.R",
+          "english": ""
+        },
+        {
+          "name": "小指２.R",
+          "parent": "小指１.R",
+          "english": ""
+        },
+        {
+          "name": "小指３.R",
+          "parent": "小指２.R",
+          "english": ""
+        },
+        {
+          "name": "小指先.R",
+          "parent": "小指３.R",
+          "english": ""
+        },
+        {
+          "name": "袖饰親.R",
+          "parent": "手捩.R",
+          "english": ""
+        },
+        {
+          "name": "袖饰1.R",
+          "parent": "袖饰親.R",
+          "english": ""
+        },
+        {
+          "name": "袖饰2.R",
+          "parent": "袖饰1.R",
+          "english": ""
+        },
+        {
+          "name": "袖饰3.R",
+          "parent": "袖饰2.R",
+          "english": ""
+        },
+        {
+          "name": "_dummy_手捩1.R",
+          "parent": "手捩.R",
+          "english": ""
+        },
+        {
+          "name": "_dummy_手捩2.R",
+          "parent": "手捩.R",
+          "english": ""
+        },
+        {
+          "name": "_dummy_手捩3.R",
+          "parent": "手捩.R",
+          "english": ""
+        },
+        {
+          "name": "手捩1.R",
+          "parent": "ひじ.R",
+          "english": ""
+        },
+        {
+          "name": "手捩2.R",
+          "parent": "ひじ.R",
+          "english": ""
+        },
+        {
+          "name": "手捩3.R",
+          "parent": "ひじ.R",
+          "english": ""
+        },
+        {
+          "name": "_shadow_手捩1.R",
+          "parent": "ひじ.R",
+          "english": ""
+        },
+        {
+          "name": "_shadow_手捩2.R",
+          "parent": "ひじ.R",
+          "english": ""
+        },
+        {
+          "name": "_shadow_手捩3.R",
+          "parent": "ひじ.R",
+          "english": ""
+        },
+        {
+          "name": "_dummy_腕捩1.R",
+          "parent": "腕捩.R",
+          "english": ""
+        },
+        {
+          "name": "_dummy_腕捩2.R",
+          "parent": "腕捩.R",
+          "english": ""
+        },
+        {
+          "name": "_dummy_腕捩3.R",
+          "parent": "腕捩.R",
+          "english": ""
+        },
+        {
+          "name": "腕捩1.R",
+          "parent": "腕.R",
+          "english": ""
+        },
+        {
+          "name": "腕捩2.R",
+          "parent": "腕.R",
+          "english": ""
+        },
+        {
+          "name": "腕捩3.R",
+          "parent": "腕.R",
+          "english": ""
+        },
+        {
+          "name": "_shadow_腕捩1.R",
+          "parent": "腕.R",
+          "english": ""
+        },
+        {
+          "name": "_shadow_腕捩2.R",
+          "parent": "腕.R",
+          "english": ""
+        },
+        {
+          "name": "_shadow_腕捩3.R",
+          "parent": "腕.R",
+          "english": ""
+        },
+        {
+          "name": "_dummy_肩C.R",
+          "parent": "肩P.R",
+          "english": ""
+        },
+        {
+          "name": "背包",
+          "parent": "上半身2",
+          "english": ""
+        },
+        {
+          "name": "おっぱい調整",
+          "parent": "上半身2",
+          "english": ""
+        },
+        {
+          "name": "胸上.L",
+          "parent": "おっぱい調整",
+          "english": "左胸上"
+        },
+        {
+          "name": "胸上2.L",
+          "parent": "胸上.L",
+          "english": ""
+        },
+        {
+          "name": "胸先.L",
+          "parent": "胸上2.L",
+          "english": "左胸先"
+        },
+        {
+          "name": "胸下.L",
+          "parent": "おっぱい調整",
+          "english": "左胸下"
+        },
+        {
+          "name": "胸下先.L",
+          "parent": "胸下.L",
+          "english": "左胸下先"
+        },
+        {
+          "name": "胸上.R",
+          "parent": "おっぱい調整",
+          "english": "右胸上"
+        },
+        {
+          "name": "胸上2.R",
+          "parent": "胸上.R",
+          "english": ""
+        },
+        {
+          "name": "胸先.R",
+          "parent": "胸上2.R",
+          "english": "右胸先"
+        },
+        {
+          "name": "胸下.R",
+          "parent": "おっぱい調整",
+          "english": "右胸下"
+        },
+        {
+          "name": "胸下先.R",
+          "parent": "胸下.R",
+          "english": "右胸下先"
+        },
+        {
+          "name": "_shadow_肩C.L",
+          "parent": "上半身2",
+          "english": ""
+        },
+        {
+          "name": "_shadow_肩C.R",
+          "parent": "上半身2",
+          "english": ""
+        },
+        {
+          "name": "_shadow_腰キャンセル.L",
+          "parent": "グルーブ",
+          "english": ""
+        },
+        {
+          "name": "_shadow_腰キャンセル.R",
+          "parent": "グルーブ",
+          "english": ""
+        },
+        {
+          "name": "足IK親.R",
+          "parent": "全ての親",
+          "english": "leg IKP_R"
+        },
+        {
+          "name": "足ＩＫ.R",
+          "parent": "足IK親.R",
+          "english": ""
+        },
+        {
+          "name": "つま先ＩＫ.R",
+          "parent": "足ＩＫ.R",
+          "english": ""
+        },
+        {
+          "name": "足IK親.L",
+          "parent": "全ての親",
+          "english": "leg IKP_L"
+        },
+        {
+          "name": "足ＩＫ.L",
+          "parent": "足IK親.L",
+          "english": ""
+        },
+        {
+          "name": "つま先ＩＫ.L",
+          "parent": "足ＩＫ.L",
+          "english": ""
+        },
+        {
+          "name": "操作中心",
+          "parent": null,
+          "english": "view cnt"
+        }
+      ]
+    },
+    {
+      "name": "安比_mesh",
+      "type": "MESH",
+      "parent": "安比_arm",
+      "hidden": false,
+      "vertices": 24411,
+      "polygons": 30678,
+      "shape_keys": [
+        "Basis",
+        "まばたき",
+        "ウィンク２",
+        "ウィンク２右",
+        "笑い",
+        "ウィンク",
+        "ウィンク右",
+        "眼角下",
+        "怒り目",
+        "怒り目２",
+        "じと目",
+        "悲しむ",
+        "びっくり",
+        "びっくり左",
+        "びっくり右",
+        "下眼上",
+        "真面目",
+        "困る",
+        "怒り",
+        "にこり",
+        "下",
+        "上",
+        "上左",
+        "上右",
+        "あ",
+        "い",
+        "う",
+        "え",
+        "お",
+        "▲",
+        "にやり",
+        "にやり２",
+        "口角上げ",
+        "口上",
+        "口左",
+        "口横狭め右",
+        "口下",
+        "口角下げ右",
+        "口右",
+        "口横広げ右",
+        "口角上げ右",
+        "口",
+        "大口",
+        "お２",
+        "お３",
+        "い２",
+        "口角上げ左",
+        "口横広げ左",
+        "口角下げ左",
+        "口横狭め左",
+        "ワ１",
+        "ワ３",
+        "ワ２",
+        "ワ",
+        "口横缩げ",
+        "口横広げ",
+        "口角下げ"
+      ],
+      "material_faces": {
+        "颜": 1880,
+        "口舌": 442,
+        "齿": 144,
+        "眉": 20,
+        "睫": 230,
+        "二重": 24,
+        "白目": 74,
+        "目": 156,
+        "瞳": 58,
+        "目光": 48,
+        "目光2": 56,
+        "上衣": 6264,
+        "髮": 4299,
+        "肌": 3082,
+        "裤": 924,
+        "腿环": 164,
+        "手套": 1212,
+        "袜": 1228,
+        "电池": 1336,
+        "耳机": 1060,
+        "鞋": 1626,
+        "裙": 916,
+        "裙饰": 794,
+        "袖饰": 218,
+        "透明罩": 24,
+        "目影": 44,
+        "髮+": 4299,
+        "新規材質1": 56
+      },
+      "vertex_groups": 235,
+      "armature_modifiers": [
+        "安比_arm"
+      ],
+      "bounds": [
+        [
+          -0.542,
+          -0.159,
+          0.0
+        ],
+        [
+          0.542,
+          0.283,
+          1.559
+        ]
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Dots Stroke",
+      "images": []
+    },
+    {
+      "name": "Material",
+      "images": []
+    },
+    {
+      "name": "mmd_tools_rigid_0",
+      "images": []
+    },
+    {
+      "name": "mmd_tools_rigid_1",
+      "images": []
+    },
+    {
+      "name": "mmd_tools_rigid_4",
+      "images": []
+    },
+    {
+      "name": "mmd_tools_rigid_6",
+      "images": []
+    },
+    {
+      "name": "mmd_tools_rigid_7",
+      "images": []
+    },
+    {
+      "name": "上衣",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        },
+        {
+          "name": "2.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\sph\\2.bmp"
+        }
+      ]
+    },
+    {
+      "name": "二重",
+      "images": [
+        {
+          "name": "颜.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\颜.tga"
+        },
+        {
+          "name": "skin.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\skin.bmp"
+        }
+      ]
+    },
+    {
+      "name": "口舌",
+      "images": [
+        {
+          "name": "颜.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\颜.tga"
+        },
+        {
+          "name": "skin.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\skin.bmp"
+        }
+      ]
+    },
+    {
+      "name": "手套",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "新規材質1",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        },
+        {
+          "name": "2.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\sph\\2.bmp"
+        }
+      ]
+    },
+    {
+      "name": "武器",
+      "images": [
+        {
+          "name": "Anbi_Weapon_D.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\textures\\Anbi_Weapon_D.tga"
+        },
+        {
+          "name": "toon4.png",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\sph\\toon4.png"
+        },
+        {
+          "name": "SP0d_20190820_005614.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\sph\\SP0d_20190820_005614.bmp"
+        }
+      ]
+    },
+    {
+      "name": "电池",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "白目",
+      "images": [
+        {
+          "name": "颜.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\颜.tga"
+        }
+      ]
+    },
+    {
+      "name": "目",
+      "images": [
+        {
+          "name": "颜.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\颜.tga"
+        }
+      ]
+    },
+    {
+      "name": "目光",
+      "images": [
+        {
+          "name": "颜.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\颜.tga"
+        }
+      ]
+    },
+    {
+      "name": "目光2",
+      "images": [
+        {
+          "name": "颜.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\颜.tga"
+        }
+      ]
+    },
+    {
+      "name": "目影",
+      "images": [
+        {
+          "name": "B.jpg",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\sph\\B.jpg"
+        }
+      ]
+    },
+    {
+      "name": "眉",
+      "images": [
+        {
+          "name": "颜.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\颜.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "睫",
+      "images": [
+        {
+          "name": "颜.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\颜.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "瞳",
+      "images": [
+        {
+          "name": "颜.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\颜.tga"
+        }
+      ]
+    },
+    {
+      "name": "耳机",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "肌",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "skin.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\skin.bmp"
+        }
+      ]
+    },
+    {
+      "name": "腿环",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        },
+        {
+          "name": "2.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\sph\\2.bmp"
+        }
+      ]
+    },
+    {
+      "name": "袖饰",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "袜",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "裙",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "裙饰",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "裤",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "透明罩",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "鞋",
+      "images": [
+        {
+          "name": "体.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "颜",
+      "images": [
+        {
+          "name": "颜.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\颜.tga"
+        },
+        {
+          "name": "skin.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\skin.bmp"
+        }
+      ]
+    },
+    {
+      "name": "髮",
+      "images": [
+        {
+          "name": "髮.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\髮.tga"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        }
+      ]
+    },
+    {
+      "name": "髮+",
+      "images": [
+        {
+          "name": "sh.png",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\sh.png"
+        },
+        {
+          "name": "toon_defo.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp"
+        },
+        {
+          "name": "hair_s.bmp",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\spa\\hair_s.bmp"
+        }
+      ]
+    },
+    {
+      "name": "齿",
+      "images": [
+        {
+          "name": "颜.tga",
+          "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\颜.tga"
+        },
+        {
+          "name": "toon01.bmp",
+          "filepath": "C:\\Users\\User\\AppData\\Roaming\\Blender Foundation\\Blender\\4.2\\extensions\\user_default\\mmd_tools\\externals\\MikuMikuDance\\toon01.bmp"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "name": "2.bmp",
+      "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\sph\\2.bmp",
+      "packed": false
+    },
+    {
+      "name": "Anbi_Weapon_D.tga",
+      "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\textures\\Anbi_Weapon_D.tga",
+      "packed": false
+    },
+    {
+      "name": "B.jpg",
+      "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\sph\\B.jpg",
+      "packed": false
+    },
+    {
+      "name": "hair_s.bmp",
+      "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\spa\\hair_s.bmp",
+      "packed": false
+    },
+    {
+      "name": "Render Result",
+      "filepath": "",
+      "packed": false
+    },
+    {
+      "name": "sh.png",
+      "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\sh.png",
+      "packed": false
+    },
+    {
+      "name": "skin.bmp",
+      "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\skin.bmp",
+      "packed": false
+    },
+    {
+      "name": "SP0d_20190820_005614.bmp",
+      "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\sph\\SP0d_20190820_005614.bmp",
+      "packed": false
+    },
+    {
+      "name": "toon01.bmp",
+      "filepath": "C:\\Users\\User\\AppData\\Roaming\\Blender Foundation\\Blender\\4.2\\extensions\\user_default\\mmd_tools\\externals\\MikuMikuDance\\toon01.bmp",
+      "packed": false
+    },
+    {
+      "name": "toon4.png",
+      "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\sph\\toon4.png",
+      "packed": false
+    },
+    {
+      "name": "toon_defo.bmp",
+      "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\toon_defo.bmp",
+      "packed": false
+    },
+    {
+      "name": "体.tga",
+      "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\体.tga",
+      "packed": false
+    },
+    {
+      "name": "颜.tga",
+      "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\颜.tga",
+      "packed": false
+    },
+    {
+      "name": "髮.tga",
+      "filepath": "C:\\Users\\User\\Downloads\\MyGtYUhe6t\\tex\\髮.tga",
+      "packed": false
+    }
+  ]
+}

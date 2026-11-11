@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 215f401399bd43c084b6bbd220a44c60, type: 3}
+  m_Name: SilyonLoadoutData
+  m_EditorClassIdentifier:
+  _areteType: 2
+  _mainWeapon: {fileID: 11400000, guid: 8d95c2092c88d9a44a05747fe508433c, type: 2}
+  _subWeapon: {fileID: 11400000, guid: e4f9400e8cc84ba41acb583e8245e8d5, type: 2}
