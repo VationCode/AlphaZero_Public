@@ -1,18 +1,22 @@
 # AlphaZero
 
-Unity 6 기반 3D 액션 프로젝트입니다. 현재 포트폴리오 작업의 초점은 `InGame` 씬의 보스전입니다.
+## [ 개요 ]
+- TPS 논타겟팅 RPG
+- 세계관 : https://app.notion.com/p/3e9f1ae841c780bea2bec634db020dce?source=copy_link
 
-## 보스전에서 보여줄 역량
+## [ 데모 영상 ]
+https://youtu.be/dhDCHlfnf6w?si=EHgt609vKBqzNz9j
 
-- 플레이어와 보스의 전투 상태, 이동, 피격, 애니메이션 이벤트를 연결한 클라이언트 로직
-- 거리와 공격 이력을 고려한 보스 패턴 선택, 추적과 공격 상태 전환
-- 실제 플레이를 기준으로 한 오류 분석, 성능 측정 및 개선 과정
+## [ 개발 환경 ]
+- Unity 버전: `6000.0.54f1` / URP
+- PC
 
-보스전의 코드 소유권, 실행 흐름, 남은 작업과 측정 방법은 [보스전 작업 문서](Docs/BossBattle.md)에 정리했습니다.
+## [ 주요 기능 ]
 
-## 실행
 
-- Unity 버전: `6000.0.54f1`
-- 주요 씬: `Assets/01Scenes/InGame.unity`
-- 조작과 전투 흐름은 Unity 에디터의 Play 모드에서 확인합니다. 빌드와 실제 플레이 검증 결과는 작업 문서에 기록합니다.
+## [ 아키텍처 ]
+https://app.notion.com/p/2eef1ae841c780d5bf45c0f35f813324?source=copy_link
+
+
+## [ 도전과 고민 ]
 
